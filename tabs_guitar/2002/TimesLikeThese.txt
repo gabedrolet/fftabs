@@ -1,0 +1,106 @@
+Foo Fighters - Times like These
+
+Album: 2002 - One By One
+Instrument: Guitar
+Tuning: eBGDAE
+
+Contributor: Lachlan Phillips
+
+
+Intro - Rhythm Guitar only
+e|--5-5-5-5-5--5-5--5-5-5--5-5-5--|
+B|--0-0-0-0-0--0-0--0-0-0--0-0-0--|
+G|--5-5-5-5-5--5-5--5-5-5--5-5-5--|
+D|--0-0-0-0-0--0-0--0-0-0--0-0-0--| (x4)
+A|--0-5-5-0-5--0-5--5-0-5--0-5-5--|
+E|--------------------------------|
+
+Intro - Lead Guitar
+e|------------------------------------------------|-----|
+B|------------------------------------------------|-----|
+G|--------------12-11--------------12-11----------|-----|
+D|--0-12-10-0----------0-12-10-0------------------|-----|
+A|------------------------------------------12-10-|-12--|
+E|------------------------------------------------|-----|
+                                                   8th time
+Intro - Rhythm Guitar
+    D               C               B
+e|---------------------------------------------|
+B|---------------------------------------------|
+G|---------------------------------------------|
+D|--12-12-12-12-12--10-10-10-10-10--9-9-9-9-9--|
+A|---x--x--x--x--x--x--x--x--x--x---x-x-x-x-x--|
+E|--10-10-10-10-10--8--8--8--8--8---7-7-7-7-7--|
+
+
+Verse
+    D               Am                 C           Em
+e|--------2---0---2-------0---3---0-----------3-3-------0-0---|
+B|------3---3---3-------1---1---1---1---------1-1-------3-3---|
+G|----2---------------2--------------------0--0-0-------0-0---|
+D|--0---------------2--------------------2-----------2--------|
+A|-------------------------------------3-----------2----------|
+E|------------------------------------------------------------|
+
+
+Chorus
+    C        Em7      D
+e|--3-3-33---0-0-00---22-2-0-2---|
+B|--1-1-11---3-3-33---33-3-3-3---|
+G|--0-0-00---0-0-00---22-2-2-2---|
+D|--2-2-22---2-2-22---00-0-0-0---|
+A|--3-3-33---2-2-22--------------|
+E|-----------0-0-00--------------|
+
+
+Outro
+   C                 Em7            D
+e|----------3----------------0--------------5-5-----|
+B|----------1--1-------------3--3--------3--3-3-----|
+G|------0------0---------0------0------2------------|
+D|----2----------------2-------------0--------------|
+A|--3----------------2------------------------------|
+E|--------------------------------------------------|
+
+
+
+* Lyrics *
+
+I, I'm a one way motorway
+I'm a road that drives away, follows you back home
+I, I'm a street-light shining
+I'm a white light blinding bright, burning off and on
+
+It's times like these you learn to live again
+It's times like these you give and give again
+It's times like these you learn to love again
+It's times like these time and time again
+
+I, I'm a new day rising
+I'm a brand new sky that hang the stars upon tonight
+I, I'm a little divided
+Do I stay or run away and leave it all behind
+
+It's times like these you learn to live again
+It's times like these you give and give again
+It's times like these you learn to love again
+It's times like these time and time again
+
+It's times like these you learn to live again
+It's times like these you give and give again
+It's times like these you learn to love again
+It's times like these time and time again
+
+It's times like these you learn to live again
+It's times like these you give and give again
+It's times like these you learn to love again
+It's times like these time and time again
+
+It's times like these you learn to live again
+It's times like these you give and give again
+It's times like these you learn to love again
+It's times like these time and time again
+
+
+_________________________
+Hosted on: www.fftabs.com

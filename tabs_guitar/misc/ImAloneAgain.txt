@@ -1,0 +1,123 @@
+Foo Fighters - I'm Alone Again
+
+Album: Unreleased
+Instrument: Guitar
+Tuning: eBGDAE
+
+Tabbed By: Zach Hess (to the best of my knowledge)
+
+
+INTRO:
+Let the notes ring out and repeat pattern a few times, then play the pick up measure
+e||------------||-------||
+B||--8---6---8-||-------||
+G||----7---7---||-------||
+D||------------||-------||
+A||------------||-------||
+E||------------||-1--0--||
+
+
+VERSE:
+Before the lyrics...
+e||-----------------------------------------------------------|| Repeat Once
+B||-----------------------------------------------------------||
+G||------------7------------6------------5--------------5-4--:||
+D||----3----x--5-----3----x-5-----3----x-5-----3-----x--5-5--:||
+A||---------x-------------x------------x-------------x--------||
+E||--3---3--x------3---3--x-----3---3--x-----3---3---x--------||
+
+When lyrics come in the pattern is pretty much the same when repeated  
+except for the last part where the 5/5 to 5/4 is replaced by this...
+(intro notes and pattern play over this for 2nd. Guitar)
+
+Last Part of Verse:
+e||-----------------||
+B||-----------------||
+G||-----------------||
+D||----3---x--------||
+A||--------x--------||
+E||--3---3-x-0-1-0--||
+Then the second time through under the vocals you just hand aroung the G chord 
+with a quick strum of the higher strings. The break between Verses is separated by:
+
+BREAK:(between verses)
+Fmaj-Amin 
+
+
+PRE-CHORUS:
+Fmaj-Amin-  e||---------||<--Play Four Times.   Fmaj-Amin-Gmaj 
+            B||---------||
+            G||---------||
+            D||----3----||
+            A||---------||
+            E||--3---3--||
+
+
+CHORUS:
+Amin-Csus2/B (which is) e||--0--||   Cmaj--to this part--:
+                        B||--1--||
+                        G||--0--||
+                        D||--0--||
+                        A||--2--||
+                        E||--x--||
+
+
+CHORUS(cont.):
+e||------------------------||
+B||-----------------44444--||  The last chord is a comlete guess, 
+G||-----------------55555--||  the quality of the chord is close but 
+D||--2-2------22----66666--||  there is a lead line--which I can't figure
+A||--2-2------22----66666--||  out--it makes it harder to distinctly hear the chord.
+E||--0-0--3---00-----------||
+
+
+The SOLO part I have not taken the time to figure out. The accompaning guitar
+just plays the verse part under the guitar solo. Then you play the Pre-Chorus riff.
+
+
+OUTRO:
+e||---------||  Repeated(i think around 8x or so; listen for change in rhythm).
+B||---------||
+G||---------||
+D||----3----||
+A||---------||
+E||--3---3--||
+
+(finally end with)
+e||---------||
+B||---------||
+G||---------||
+D||---------||
+A||---------||
+E||--0-1-0--||
+
+
+
+*Lyrics*
+(Verse)
+All the things I said I wanted,
+Turned out to be heaven haunted.
+Every time I dream I'm sharin',
+All the things that I tried pairing too...
+(Break)
+If the thought could ever barter,
+Time enough to make a pedal.
+Now I might help any other,
+Now that's it, I'll simply ponder you
+(Pre-Chorus)
+Its hard to recognize that's all...
+True it wasn't that at all...
+(Chorus)
+I'm alone again,
+Never thought I'd see the one I told you.
+Head is along,
+Over now.
+
+
+STRUCTURE(respectively):
+INTRO-VERSE(w/BREAK)-PRE/CHORUS-CHORUS-VERSE(w/BREAK)
+
+PRE/CHORUS-CHORUS-SOLO-PRE/CHORUS-CHORUS-OUTRO
+
+_________________________
+Hosted on: www.fftabs.com

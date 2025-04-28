@@ -1,0 +1,98 @@
+Foo Fighters (Dave Grohl w/ Tony Iommi - Goodbye Lament
+(Tuning  CGCFAD)
+
+Tabber: Matt Armstrong
+
+
+In this song I think Gtr 1 uses an octaver, which I don't have so
+I won't bother writing in many of the parts, which just mimic the
+notes of Gtr. 2 in higher octaves.
+
+AH = Artificial Harmonics
+
+To achieve an artificial harmonic, you must position the plectrum
+at the same level as the end of the thumb so when you pluck the
+string, both plectrum and thumb play the string, kind of pinching it
+but NOT blatantly pinching it. For anyone who hasn't done this before
+it can take a LONG time to perfect.
+
+VB = Vibrato
+
+Is Achieved by bending the string slightly up and down rapidly
+
+Verse/Intro
+
+Gtr 1 Reverb/distortion
+
+   AH------ VB---------
+d)---------------------
+a)-19b20b19------------
+f)---------------------
+c)----------10========-
+g)---------------------
+C)---------------------
+
+Gtr 2 (comes in later)
+
+ 
+         VB--
+d)--------------------
+a)--------------------
+f)--------------------
+c)----0-3/15------6p5-
+g)------3/15--0---6p5-
+C)-0----3/15--0---6p5-
+
+Verse loud
+
+        VB--
+d)-------------------
+a)-------------------
+f)-------------------
+c)------3/15-----6p5-
+g)-0-0--3/15--0--6p5-
+C)-0-0--3/15--0--6p5-
+
+Occasional Riff
+
+d)----------------------
+a)----------------------
+f)----------------------
+c)------3/15------18p17-
+g)-0-0--3/15--0---18p17-
+C)-0-0--3/15--0---18p17-
+
+Chorus build up (not gonna like this, but it is Iommi)
+
+d)-------------------------------------------------------
+a)-------------------------------------------------------
+f)-7-----7-----7----9-----9-----9---10-----10-----10---12
+c)-7-----7-----7----9-----9-----9---10-----10-----10---12
+g)-5-5-5-5-5-5-5-5--5-5-5-5-5-5-5-5-5--5-5-5--5-5-5--5-10
+C)---0-0---0-0---0----0-0---0-0---0----0-0----0-0----0---
+
+d)----------------
+a)----------------
+f)----------------
+c)-10\9\7--9\7\5--
+g)--8\7\5--7\5\3--
+C)----------------
+
+d)-------------------------------------------------------
+a)-------------------------------------------------------
+f)-7-----7-----7----9-----9-----9---10-----10-----10---12
+c)-7-----7-----7----9-----9-----9---10-----10-----10---12
+g)-5-5-5-5-5-5-5-5--5-5-5-5-5-5-5-5-5--5-5-5--5-5-5--5-10
+C)---0-0---0-0---0----0-0---0-0---0----0-0----0-0----0---
+
+d)----------
+a)----------
+f)-12---10--
+c)-12---10--
+g)-10---8---
+C)----------
+
+That's about all you need, and all your gonna get from me.
+
+_________________________
+Hosted on: www.fftabs.com

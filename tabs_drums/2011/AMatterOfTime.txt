@@ -1,0 +1,284 @@
+Foo Fighters - A Matter of Time
+
+Album: Wasting Light
+Instrument: Drums
+Drummer: Taylor Hawkins
+Tempo: 172 bpm
+Time Signature: 4/4
+Tabbed By: Nicholas P.
+
+Visit http://www.cygnusproductions.com/rtp/drums/dtab_explanation.txt
+for info on how to read this.
+For the toms on this tab:
+H - High Tom
+M - Medium Tom
+F - Floor Tom
+
+Each - means eighth note where not stated.
+
+Intro
+There's a little guitar thing at the beginning.
+
+C||C--C--C-|--C-C-C-|C--C--C-|--C-C-C-|
+S||--X---X-|XX--X-X-|--X---X-|XX--X-X-|
+K||X--X-X--|--X--X-X|X--X-X--|--X--X-X|
+
+C||C--C--C-|--C-C-C-|C--C--C-|--C-----|
+S||--X---X-|XX--X-X-|--X---X-|XX--XXXX|
+K||X--X-X--|--X--X-X|X--X-X--|--X-----|
+
+Verse
+
+C||C-------|--------|--------|--------|
+H||-XXXXXXX|XXXXXXXX|XXXXXXXX|XXXXXXXX|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||X-------|-------X|X-------|-------X|
+
+H||XXXXXXXX|XXXXXXXX|XXXXXXXX|XXXXXXXX|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||X-------|-------X|X-------|-------X|
+
+H||OXXXXXXX|XXXXXXXX|XXXXXXXX|XXXXXXXX|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||XP------|-------X|X-------|-------X|
+
+Gradually open hi-hat throughout this line:
+H||H-H-H-H-|H-H-H-H-|O-O-O-O-|O-O-O-O-|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||X-------|-------X|X------X|X---XX--|
+
+H||XXXXXXXX|XXXXXXXX|XXXXXXXX|XXXXXXXX|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||X---XX--|X---XX--|X---XX--|X---XX--|
+
+H||XXXXXXXX|XXXXXXXX|XXXXXXXX|XXXXH-O-|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||X---XX--|X---XX--|X---XX--|X---XX--|
+
+H||XXXXXXXX|XXXXXXXX|XXXXXXXX|XXXXXXXX|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||X---XX--|X---XX--|X---XX--|X---XX--|
+H||P-------|--------|--------|--------|
+
+Gradually open hi-hat throughout this line:
+H||H-H-H-H-|H-H-H-H-|O-O-O-O-|O-O-O-O-|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||X---XX--|X---XX--|X---XX--|X---XX--|
+
+C||C-------|--------|
+H||--O-O-O-|O-O-O---|
+S||--X---X-|--X---F-|
+K||X--X-X--|-X--XX--|
+
+Pre-Chorus
+
+C||C-------|--------|--------|--------|
+H||-XXXXXXX|XXXXXXXX|XXXXXXXX|XXXXXXXX|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||X--X-X--|-X--XX--|X--X-X--|-X--XX--|
+
+C||--------|--------|--------|------S-|
+H||XXXXXXXX|XXXXXXXX|XXXXXXXX|XXXXX---|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||X--X-X--|-X--XX--|X--X-X--|-X--XX--|
+
+H||XXXXXXXX|XXXXXXXX|XXXXXXXX|XXXXXXXX|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||X--X-X--|-X--XX--|X--X-X--|-X--XX--|
+
+C||--------|------C-|
+H||XXXXXXXX|X-X-X---|
+S||--X---X-|--X-X-X-|
+K||X--X-X--|-X---X--|
+
+Chorus
+
+C||--------|--------|--------|------S-|
+H||OOOOOOOO|OOOOOOOO|OOOOOOOO|OOOOOO-O|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||XX-XXX-X|XX-XXX-X|XX-XXX-X|XX-XXX-X|
+
+C||C-------|--------|--------|----C-S-|
+H||-OOOOOOO|OOOOOOOO|OOOOOOOO|OOOO----|
+S||--X---X-|--X---X-|--X---X-|--X-X-X-|
+K||XX-XXX-X|XX-XXX-X|XX-XXX-X|XX-X-X-X|
+
+C||S-------|--------|--------|--------|
+H||-OOOOOOO|OOOOOOOO|OOOOOOOO|OOOOOOOO|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||XX-XXX-X|XX-XXX-X|XX-XXX-X|XX-XXX-X|
+
+                  ss
+C||--------|---------|C--C--C-|--C-----|
+H||OOOOOOOO|OOOOOO---|--------|--------|
+S||--X---X-|--X---XX-|--X---X-|XX--XXXX|
+K||XX-XXX-X|XX-XXX--X|X--X-X--|--X-----|
+
+Verse
+
+H||XXXXXXXX|XXXXXXXX|XXXXXXXX|XXXXXXXX|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||X---XX--|X---XX--|X---XX--|X---XX--|
+
+H||XXXXXXXX|XXXXXXXX|XXXXXXXX|XXXXH-O-|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||X---XX--|X---XX--|X---XX--|X---XX--|
+
+H||XXXXXXXX|XXXXXXXX|XXXXXXXX|XXXXXXXX|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||X---XX--|X---XX--|X---XX--|X---XX--|
+H||P-------|--------|--------|--------|
+
+Gradually open hi-hat throughout this line:
+H||H-H-H-H-|H-H-H-H-|O-O-O-O-|O-O-O-O-|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||X---XX--|X---XX--|X---XX--|X---XX--|
+
+H||XXXXXXXX|XXXXXXXX|XXXXXXXX|XXXXXXXX|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||X---XX--|X---XX--|X---XX--|X---XX--|
+
+H||XXXXXXXX|XXXXXXXX|XXXXXXXX|XXXXH-O-|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||X---XX--|X---XX--|X---XX--|X---XX--|
+
+H||XXXXXXXX|XXXXXXXX|XXXXXXXX|XXXXXXXX|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||X---XX--|X---XX--|X---XX--|X---XX--|
+H||P-------|--------|--------|--------|
+
+Gradually open hi-hat throughout this line:
+H||H-H-H-H-|H-H-H-H-|O-O-O-O-|O-O-O-O-|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||X---XX--|X---XX--|X---XX--|X---XX--|
+
+C||C-------|--------|
+H||--O-O-O-|O-O-O---|
+S||--X---X-|--X---F-|
+K||X--X-X--|-X--XX--|
+
+Pre-Chorus
+
+C||C-------|--------|--------|--------|
+H||-XXXXXXX|XXXXXXXX|XXXXXXXX|XXXXXXXX|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||X--X-X--|-X--XX--|X--X-X--|-X--XX--|
+
+C||--------|--------|--------|------S-|
+H||XXXXXXXX|XXXXXXXX|XXXXXXXX|XXXXX---|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||X--X-X--|-X--XX--|X--X-X--|-X--XX--|
+
+H||XXXXXXXX|XXXXXXXX|XXXXXXXX|XXXXXXXX|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||X--X-X--|-X--XX--|X--X-X--|-X--XX--|
+
+C||--------|------C-|
+H||XXXXXXXX|X-X-X---|
+S||--X---X-|--X-X-X-|
+K||X--X-X--|-X---X--|
+
+Chorus
+
+H||OOOOOOOO|OOOOOOOO|OOOOOOOO|OOOOOOOO|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||XX-XXX-X|XX-XXX-X|XX-XXX-X|XX-XXX-X|
+
+C||C-------|--------|--------|----C-S-|
+H||-OOOOOOO|OOOOOOOO|OOOOOOOO|OOOO----|
+S||--X---X-|--X---X-|--X---X-|--X-X-X-|
+K||XX-XXX-X|XX-XXX-X|XX-XXX-X|XX-X-X-X|
+
+C||C-------|--------|--------|------C-|
+H||-OOOOOOO|OOOOOOOO|OOOOOOOO|OOOOOO-O|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||XX-XXX-X|XX-XXX-X|XX-XXX-X|XX-XXX-X|
+
+                  ss                ss ss
+C||C-------|---------|--------|----------|
+H||OOOOOOOO|OOOOOO---|OOOOOOOO|OOOO------|
+T||--------|---------|--------|----H--H--|
+S||--X---X-|--X---XX-|--X---X-|--X--XX-XX|
+K||XX-XXX-X|XX-XXX--X|XX-XXX-X|XX-X------|
+
+Bridge
+Use the edge of the ride.
+
+C||:C-R-R-R-|R-R-R-R-|R-R-R-R-|R-R-R-R-|
+S||:--X---X-|--X---X-|--X---X-|--X---X-|
+K||:X--X-X--|X--X-X--|X--X-X--|X--X-X--|
+                              ending 1    ending 2
+                              _________   ________
+C||C-R-R-R-|R-R-R-R-|R-R-R-R-|R-R-R-S-:| |R-C-C-C-| 
+S||--X---X-|--X---X-|--X---X-|--X---X-:| |--X---X-|
+K||X--X-X--|X--X-X--|X--X-X--|-X--X-X-:| |-X--X---|
+  
+                                  ssssssss
+C||C-R-R-R-|R-R-R-R-|C-R-R-R-|C-C---------|
+S||--X---X-|--X---X-|--X---X-|--X-XXXXXXXX|
+K||X--X-X--|-X--XX--|X--X-X--|-X----------|
+
+C||C--C--C-|--C-C-C-|C--C--C-|--C-----|
+S||--X---X-|XX--X-X-|--X---X-|XX------|
+K||X--X-X--|--X--X-X|X--X-X--|--X-----|
+
+Chorus
+
+C||C-------|--------|--------|------C-|
+H||-OOOOOOO|OOOOOOOO|OOOOOOOO|OOOOOO-O|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||XX-XXX-X|XX-XXX-X|XX-XXX-X|XX-XXX-X|
+
+C||C-------|--------|--------|----C-S-|
+H||-OOOOOOO|OOOOOOOO|OOOOOOOO|OOOO----|
+S||--X---X-|--X---X-|--X---X-|--X-X-X-|
+K||XX-XXX-X|XX-XXX-X|XX-XXX-X|XX-X-X--|
+
+C||C-------|--------|--------|--------|
+H||-OOOOOOO|OOOOOOOO|OOOOOOOO|OOOOOOOO|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||XX-XXX-X|XX-XXX-X|XX-XXX-X|XX-XXX-X|
+
+C||--------|--------|--------|----C-S-|
+H||OOOOOOOO|OOOOOOOO|OOOOOOOO|OOOO----|
+S||--X---X-|--X---X-|--X---X-|--X-X-X-|
+K||XX-XXX-X|XX-XXX-X|XX-XXX-X|XX-X-X--|
+
+                                    <
+C||C-C-C-C-|C-C-C-C-|C-C-C-C-|C-C-C-C-|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||XX-XXX-X|XX-XXX-X|XX-XXX-X|XX-XXX-X|
+
+   <                              < <
+C||C-C-C-C-|C-C-C-C-|C-C-C-C-|C-C-C-S-|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||XX-XXX-X|XX-XXX-X|XX-XXX-X|XX-XXX--|
+
+   <                                <
+C||C-C-C-C-|C-C-C-C-|C-C-C-C-|C-C-C-C-|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||XX-XXX-X|XX-XXX-X|XX-XXX-X|XX-XXX-X|
+
+   <            ssssssss                          
+C||C-C-C-C-|C-C---------|
+T||--------|--------HHMM|
+S||--X---X-|XX--XXXX----|
+K||XX-XXX-X|--X---------|
+
+Outro
+
+C||C--C--C-|--C-C-C-|C--C--C-|----------------|
+T||--------|--------|--------|--------HHHHMMMM|
+S||--X---X-|XX--X-X-|--X---X-|XXXXXXXX--------|
+K||X--X-X--|--X--X-X|X--X-X--|----------------|
+                
+               ss
+C||C--C--C-|--C------|C--C--C-|--C---C-|
+T||--------|------HMF|--------|--------|
+S||--X---X-|XX--XX---|--X---X-|XX--F-X-|
+K||X--X-X--|--X------|X--X-X--|--X--X-X|
+ 
+
+
+_________________________
+Hosted on: www.fftabs.com

@@ -1,0 +1,66 @@
+Foo Fighters - Down In the Park (Drum)
+(From the "X-Files Soundtrack" and "My Hero" single)
+
+Note: Will used only ride cymbals (no crashes) so I'll refer to each cymbal in
+the tab by size (20RC, 22RC, and 24RC to correspond w/ 20, 22, and 24 inch rides). 
+The snare rolls are almost completely inaudible, but they're there. 
+
+Hi-hat o = open
+x = closed
+
+Snare o = normal hit
+r = snare roll 
+
+
+Intro:
+--hh|x-x-x-o-x-x-x-x-x-x-x-o-x-x-x-x-x-x-x-o-x|
+--sd|--------o------r--------o------r--------o|
+--bd|o-----o-------o-o-----o-------o-o-----o--|
+
+Most of the rest of the verses are like this
+(but listen to the recording to hear when to open the hi-hat):
+--hh|x-x-x-x-o-x-x-x-x-x-x-x-o-x-x-x-x-x-x-x-o|
+--sd|--------o------r--------o------r--------o|
+--bd|o-----o-------o-o-----o-------o-o-----o--| 
+
+Chorus:
+20rc|x-------------------------------x|
+22rc|x-------------------------------x|
+--hh|----o---o---o---o---o---o---o----|
+--sd|--------o---------------o--------|
+--bd|o-----o-----o-----o-o-----o---o-o|
+
+Going to second verse:
+22rc|x--------------------------------|
+--ft|----o-o-o-o-o-o-o-o-o-o-o--------|
+--hh|--------------------------o---o-x|
+--sd|o---o-o-o-o-o-o-o-o-o-o-o---oo---|
+--bd|----o-o-o-o-o-o-o-o-o-o-o-o---o-o|
+
+Going into last (loud) verse
+22rc|x---x-x-x-x-x-x-x-x-x-x-x------|
+--hh|--------------------------o---o|
+--sd|o---o-o-o-o-o-o-o-o-o-o-o---oo-|
+--bd|----o-o-o-o-o-o-o-o-o-o-o-o---o|
+
+Last verse:
+20rc|x----------------------------------------|
+22rc|x---x---x---x---x---x---x---x---x---x---x|
+--sd|--------o------r--------o------r--------o|
+--bd|o-o-o-o---o-o-o-o-o-o-o---o-o-o-o-o-o-o--|
+
+Then, of course, this part:
+20rc|x---x---------------------------x|
+22rc|x---x---x---x---x---x---x---x---x|
+--sd|--------o---o-----o-----o--------|
+--bd|o-o-o-o---o---o-o-----o---o---o-o|
+
+Outro:
+20rc|x-------------------------------x|
+22rc|x-------------------------------x|
+--hh|----x---x---x---x---x---x---x----|
+--sd|--------o---------------o--------|
+--bd|o-----o-----o-----o-o-----o---o-o|
+
+_________________________
+Hosted on: www.fftabs.com

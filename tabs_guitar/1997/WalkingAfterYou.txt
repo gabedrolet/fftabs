@@ -1,0 +1,266 @@
+Foo Fighters - Walking After You
+
+Album: 1997 - The Colour And The Shape
+Instrument: Guitar
+Tuning: eBGDAE
+
+Tabber: Michael Slusarz
+
+
+Intro/Fill 1
+(Gtr. 1)
+   E
+e|-0------||-0----------|
+B|--0-----||---0---0----|
+G|---1----||-----1------| (Upstroke on the E)
+D|----2---||----------2-|
+A|-----2--||----------2-|
+E|------0-||----------0-|
+
+(Gtr. 2)
+N.C. 
+e|-0---2---4---0---5---4---2---0---4-|
+B|---0---0---0---0---0---0---0---0---|
+G|-1---2---4---1---6---4---2---1---4-|
+D|-----------------------------------|
+A|-----------------------------------|
+E|-----------------------------------|
+
+
+Verse
+   E    E5/G#    A  Bbdim     A  B7(add E) 
+e|-0------0------0----0-------0----0-|
+B|-0------0------2----2-------2----0-|
+G|-1------4------2----3-------2----2-|
+D|-2------2------2----2-------2----1-|
+A|-2------x------0----1-------0----2-|
+E|-0------4--------------------------|
+  "Tonight I'm tangled in my [...]"
+
+Fill 2
+(Gtr. 1)
+   E
+e|-0-|
+B|-0-|
+G|-1-|
+D|-2-|
+A|-2-|
+E|-0-|
+
+(Gtr. 2)
+N.C. 
+e|-0---2---4---0---5---4---2---0---|
+B|---0---0---0---0---0---0---0---0-|
+G|-1---2---4---1---6---4---2---1---|
+D|---------------------------------|
+A|---------------------------------|
+E|---------------------------------|
+
+
+Chorus 1
+  F#7(add B) Asus2     E 
+e|-0-----------0-------0-|
+B|-0-----------0-------0-|
+G|-3-----------2-------1-|
+D|-4-----------2-------2-|
+A|-4-----------0-------2-|
+E|-2-------------------0-|
+  "If you walk out on me [...]"
+
+
+Chorus 2 
+   C#m   Asus2 F#7(add B) 
+e|-(0)-----0-------0-|
+B|--5------0-------0-|
+G|--6------2-------3-|
+D|--6------2-------4-|
+A|--4------0-------4-|
+E|-----------------2-|
+  "Another heart is cracked [...]"
+
+
+Interlude
+(Gtr. 1)
+   E
+e|-0-|
+B|-0-|
+G|-1-|
+D|-2-|
+A|-2-|
+E|-0-|
+
+(Gtr. 2)
+N.C. 
+e|-0---2---4---0---5---4---2---0---|
+B|---0---0---0---0---0---0---0---0-|
+G|-1---2---4---1---6---4---2---1---|
+D|---------------------------------|
+A|---------------------------------|
+E|---------------------------------|
+
+N.C.
+e|-0---2---4---0---5---4---2---0---|
+B|---0---0---0---0---0---0---0---0-|
+G|-1---2---4---1---6---4---2---1---|
+D|---------------------------------|
+A|---------------------------------|
+E|---------------------------------|
+
+N.C. 
+e|-0---2---4---0---5---4---2---0---2-----2-----2-----2---2-|
+B|---0---0---0---0---0---0---0---0-----0-----0-----0-------|
+G|-1---2---4---1---6---4---2---1---3-3-----3-----3-----3---|
+D|---------------------------------------------------------|
+A|---------------------------------------------------------|
+E|---------------------------------------------------------|
+
+
+Outro
+(Gtr. 1)
+   E
+e|-0-|
+B|-0-|
+G|-1-|
+D|-2-|
+A|-2-|
+E|-0-|
+
+(Gtr. 2)
+N.C. 
+e|-0---2---4---0---5---4---2---0---|
+B|---0---0---0---0---0---0---0---0-|
+G|-1---2---4---1---6---4---2---1---|
+D|---------------------------------|
+A|---------------------------------|
+E|---------------------------------|
+
+N.C.
+e|-0---2---4---0---5---4---2---0---|
+B|---0---0---0---0---0---0---0---0-|
+G|-1---2---4---1---6---4---2---1---|
+D|---------------------------------|
+A|---------------------------------|
+E|---------------------------------|
+
+N.C. 
+e|-0---2---4---0---5---4---2---0---4-|
+B|---0---0---0---0---0---0---0---0---|
+G|-1---2---4---1---6---4---2---1---4-|
+D|-----------------------------------|
+A|-----------------------------------|
+E|-----------------------------------|
+
+
+Song Structure
+==============
+---> Play Intro 
+---> Play Verse over: 
+Tonight I'm tangled in my 
+Blanket of clouds 
+Dreaming aloud 
+Things just won't do without you 
+Matter of fact 
+I'm on your back 
+I'm on your back 
+I'm on your back 
+---> Play Fill 2 
+---> Play Chorus 1 over: 
+If you walk out on me 
+I'm walking after you 
+If you walk out on me 
+I'm walking after you 
+---> Play Fill 1 
+---> Play Verse over: 
+If you'd accept surrender 
+I'll give up some more 
+Weren't you adored? 
+I cannot be without you 
+Matter of fact 
+I'm on your back 
+I'm on your back 
+I'm on your back 
+---> Play Fill 2 
+---> Play Chorus 1 over: 
+If you walk out on me 
+I'm walking after you 
+If you walk out on me 
+I'm walking after you 
+---> Play Chorus 2 over: 
+Another heart is cracked 
+In two 
+I'm on your back 
+---> Play Interlude 
+---> Play Verse over: 
+I cannot be without you 
+Matter of fact 
+I'm on your back 
+---> Play Fill 2 
+---> Play Chorus 1 over: 
+If you walk out on me 
+I'm walking after you 
+If you walk out on me 
+I'm walking after you 
+If you walk out on me 
+I'm walking after you 
+---> Play Chorus 2 over: 
+Another heart is cracked 
+In two 
+I'm on your back 
+---> Play Ending
+
+
+
+* Lyrics *
+
+Tonight I'm tangled in my blanket of clouds
+Dreaming aloud
+Things just wont do without you
+Matter of fact
+Oooooh, I'm on your back
+I'm on your back
+Oooooh, I'm on your back
+
+If you walk out on me
+I'm walking after you
+If you walk out on me 
+I'm walking after you
+
+If you'd accept surrender give up some more
+Weren't you adored
+I cannot be without you
+Matter of fact
+Oooooh, I'm on your back
+I'm on your back
+Oooooh, I'm on your back
+
+If you walk out on me
+I'm walking after you
+If you walk out on me
+I'm walking after you
+
+Now the heart is cracked
+In two
+I'm on your back
+Oooooh
+
+I cannot be without you
+Matter of fact
+Oooooh, I'm on your back
+
+If you walk out on me
+I'm walking after you
+If you walk out on me
+I'm walking after you
+If you walk out on me
+I'm walking after you
+
+Another heart is cracked
+In two
+I'm on your back
+Oooooh
+Ooooh
+Ooooh
+
+
+_________________________
+Hosted on: www.fftabs.com

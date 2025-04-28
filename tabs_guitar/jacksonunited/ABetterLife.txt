@@ -1,0 +1,130 @@
+Jackson United - A Better Life
+
+Album: Western Ballads 
+Instrument: Guitar
+Tuning: eBGDAE
+
+Tabbed By: Sean Biltgen
+
+This tab is kinda sloppy, so I structured the song at the bottom
+
+
+Intro/Bridge Clean guitar and tremolo guitar
+e||--x-3-3-3--||
+B||--x-3-3-3--||
+G||--x-0-0-0--||
+D||--2-0-2-0--||
+A||--2-2-3-2--||
+E||--0-3-x-3--||
+
+
+Intro Guitar fill(and very subtle in the verse/bridge)
+e||-------||
+B||-------||
+G||----2--||
+D||---1---||
+A||--2----||
+E||-------||
+
+
+Solo in the Intro/1st Bridge
+e||--------------------------------||
+B||----10-8---10-8---10-8---10-12--||
+G||--9------7------5------4--------||X2
+D||--------------------------------||
+A||--------------------------------||
+E||--------------------------------||
+
+
+Verse
+Let Chords ring out
+e||----3-3-3-||
+B||----3-3-3-||
+G||----0-0-0-||
+D||--2-0-2-0-||
+A||--2-2-3-2-||
+E||--0-3---3-||
+"Stop, take a moment, and sit down..."
+
+
+Chorus Chords(listen for strumming pattern)
+(on last measure play 1st chord for half measure then finish measure with 3rd chord)
+e||--3-----3-||
+B||--3---0-3-||
+G||--0---2-0-||X3
+D||--2-2-1-2-||
+A||--3-2-2-3-||
+E||----0-----||
+"Cuz we're in the good times now..."
+
+Piano arpegiates first 3 notes of each chord probly an octave above
+
+
+Interlude(after 2nd Chorus)
+Guitar 1
+e||---------||
+B||----0-0--||
+G||----2-3--||
+D||--2-1-2--||
+A||--2-2-3--||
+E||--0------||
+
+Guitar 2
+e||----10-12--------------------------||
+B||--12--------10-11---11-12---13-12--||
+G||----------12------12------12-------||X3
+D||-----------------------------------||
+A||-----------------------------------||
+E||-----------------------------------||
+"hey, goin to a better life..."
+Last measure
+e||----10-12-------------||
+B||--12--------10-11-13--||
+G||----------12----------||
+D||----------------------||
+A||----------------------||
+E||----------------------||
+"and we goOoOoOoOo..."
+
+
+Bridge
+Guitar 1
+e||----3-3-3-||
+B||----3-3-3-||
+G||----0-0-0-||
+D||--2-0-2-0-||
+A||--2-2-3-2-||
+E||--0-3---3-||
+
+Guitar 2(Only play this in the 2nd bridge)
+play 1st one 3 times before playing the 2nd one
+e||----------------||
+B||--15/17---17/15-||
+G||----------------||
+D||----------------||
+A||----------------||
+E||----------------||
+
+
+Ending Note - Use a Trem bar or bend it
+e||-----||
+B||-----||
+G||-----||
+D||-----||
+A||--2--||
+E||-----||
+
+
+Song structure
+Intro (same thing as bridge)
+Verse
+Chorus
+Bridge
+Verse
+Chorus
+Interlude
+Bridge
+Chorus
+
+_________________________
+Hosted on: www.fftabs.com

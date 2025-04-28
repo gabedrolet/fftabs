@@ -1,0 +1,107 @@
+Foo Fighters - Doll (Drum)
+(Played by Will Goldsmith)
+
+Note: Will used only ride cymbals (no crashes)
+so I'll refer to each cymbal in the tab by size (20RC, 22RC, and
+24RC to correspond w/ 20, 22, and 24 inch rides). 
+
+Cymbals ^ = tap
+w = wash 
+x = harder hit
+Snare o = normal hit
+O = both sticks
+r = snare roll
+g = ghost note (very light hit) 
+
+
+Intro:
+22RC|--------|x-------|
+24RC|--------|--------|
+--FT|--o-----|------o-|
+--TT|--o-----|-----o--|
+--SD|O---OO-o|--ooo---|
+--BD|--o-----|o------o| 
+
+
+After intro:
+24RC|^-^-^-^-|^-^-^-^-^-^-^-^-^-^-^-^|
+--SD|----o---|----o--r-g--o-------o--|
+--BD|o--o--o-|-oo-----o--o--o--oo----| 
+
+
+Play that a while, then:
+22RC|----x-|
+--FT|oooo--|
+--SD|ooooo-|
+--BD|ooooo-|
+
+Then:
+22RC|w-w-w-w-|w-w-w-w-w-w-w-w-w-w-w-w|
+--SD|----o---|----o--r-g--o-------o--|
+--BD|o--o--o-|-oo-----o--o--o--oo----|
+
+Finally, the big finish:
+20RC|x|
+22RC|x|
+--BD|o| 
+"I'll meet youuuu..........theeeeeere."
+_________________________
+Foo Fighters - Doll (Drum)
+
+
+This is a simple tab.  Some hits are played here and there as fills.
+I didn't include them so there wouldn't be any confusion.
+
+Legend:
+Cymbals ^ = soft hit
+        x = hard hit
+Tom-Toms 1 = smallest tom
+         2 = next smallest etc.
+
+  Vocals     Guitar
+  |        |        |
+  |[------]|[------]| Rest for 16 bars
+  |   2    |   14   |
+
+    Drum Intro
+CC|--------|x-------|
+RC|--------|--------|
+TT|--1-----|-----123| Play this once
+SD|o---oo-o|--ooo---|
+BD|--o-----|o-------|
+   1+2+3+4+ 1+2+3+4+
+
+   Bass Enters
+CC|--------|--------|
+RC|^-^-^-^-|^-^-^-^-|
+TT|--------|--------| Play this 5 times
+SD|----o---|----o---|
+BD|o--o--o-|--o-----|
+   1+2+3+4+ 1+2+3+4+
+
+    Drum Fill
+CC|--------|----x---|
+RC|^-^-^-^-|--------|
+TT|--------|--------| Play this once
+SD|----o---|ooooo---|
+BD|o--o--o-|ooooo---|
+   1+2+3+4+ 1+2+3+4+
+
+
+CC|^-^-^-^-|^-^-^-^-|
+RC|--------|--------|
+TT|--------|--------| Play this 3 times
+SD|----o---|----o---|
+BD|o--o--o-|--o-----|
+   1+2+3+4+ 1+2+3+4+
+
+   End with
+CC|x-------|
+RC|x-------|Then guitar and vocals
+TT|--------|finish the song off.
+SD|--------|
+BD|o-------|
+   1+2+3+4+
+
+_________________________
+Hosted on: www.fftabs.com

@@ -1,0 +1,126 @@
+Foo Fighters - Let It Die
+
+Album: Echoes, Silence Patience & Grace
+Instrument: Drums
+
+Tabbed By: luc0007
+
+
+d: Double hit
+o: Strike (normal)
+x: Hit (normal)
+r: Rim shot snare
+X: Accented strike (loose hi-hat)
+#: Choke cymbal (hit then grab to stop)
+
+CC: Crash Cymbal
+CR: Crash-Ride Cymbal
+Rd: Ride Cymbal
+HH: Hi-Hat
+S: Snare drum
+T1: Small/medium tom
+FT, F2: Floor toms
+B: Bass drum
+
+
+  |--------|--------| x16
+
+HH|XxXxXxXx|XxXxXxXx|XxXxXxXx|XxXxXxXx| x5
+S |r-r-r-r-|r-r-r-r-|r-r-r-r-|r-r-r-r-|
+  |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|
+
+HH|XxXxXxXx|XxXxXxXx|XxXxXxXx|XxXxXxXx| 
+C |r-r-r-r-|r-r-r-r-|r-r-r-r-|r-r-r-r-|
+B |o-o-o-o-|o-o-o-o-|o-o-o-o-|o-o-o-o-|
+  |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|
+
+
+CC|--------|--------|--------|-----XX#| 
+HH|XxXxXxXx|XxXxXxXx|XxXxXxXx|XxXxX---| 
+S |r-r-r-r-|r-r-r-r-|r-r-r-r-|r-r-r---|
+B |o-o-o-o-|o-o-o-o-|o-o-o-o-|o-o-oooo|
+  |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|
+
+CC|-------#|--------|--------|-----XX#|
+B |-------o|--------|--------|-----ooo|
+  |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|
+
+CC|--------|-------#|--------|--------|
+B |--------|-------o|--------|--------|
+  |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|
+
+Rd|x-------|--------|--------|--------|
+HH|--XxXxXx|XxXxXxXx|XxXxXxXx|XxXxXxXx| Hi hat slightly opened
+S |--r-r-r-|r-r-r-r-|r-r-r-r-|r-r-r-r-|
+B |o------o|o------o|o------o|o------o|
+  |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|
+
+HH|XxXxXxXx|XxXxXxXx|XxXxXxXx|XxXxXxXx| Hi hat slightly opened
+S |r-r-r-r-|r-r-r-r-|r-r-r-r-|r-r-r-r-|
+B |o-o-o-o-|o-o-o-o-|o-o-o-o-|o-o-o-o-|
+  |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|
+
+Rd|XxXxXxXx|XxXxXxXx|XxXxXxXx|XxXxXxXx|
+S |r-r-r-r-|r-r-r-r-|r-r-r-r-|r-r-r-r-|
+B |o-o-o-o-|o-o-o-o-|o-o-o-o-|o-o-o-o-|
+  |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|
+
+       Crescendo
+   >>>>>>>>>>>>>>>>>
+CR|xxxxxxxx|xxxxxx#-|--------|
+S |oooooooo|ooooooo-|--------|
+B |oooooooo|ooooooo-|--------|
+  |1+2+3+4+|1+2+3+4+|1+2+3+4+|
+
+
+CR|XxXxXxXx|XxXxXxXx|XxXxXxXx|XxXxXxXx|
+S |--o---o-|--o---o-|--o---o-|--o---o-| x2 
+B |o---o--o|o---o---|o---o--o|o---o---|
+  |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|
+
+CR|XxXxXxXx|XxXxXxXx|XxXxXxXx|XxXxXxXx|
+S |--o--ooo|--o---o-|--o---oo|--o---o-|
+B |o---o---|o---o---|o---o---|o---o---|
+  |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|
+
+CR|XxXxXxXx|XxXxXxXx|Xx------|
+HH|--------|--------|--XxX---| Slightly opened Hi hat
+S |--o---o-|--o---o-|--o--ddd|
+B |o---o---|o---o---|o---o---|
+  |1+2+3+4+|1+2+3+4+|1+2+3+4+|
+
+
+C |X-------|X-------|X-------|X-------|
+HH|-xXxXxXx|-xXxXxXx|-xXxXxXx|-xXxXxXx| slightly opened hi hat
+S |--o---o-|--o---o-|--o---o-|--o---o-| x3
+B |oo-ooo-o|oo-ooo-o|oo-ooo-o|oo-ooo-o|
+  |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|
+
+C |X-------|--------|X-------|X-------|
+HH|-xXxXxXx|--------|-xXxXxXx|-xXxXxXx| slightly opened hi hat
+S |--o---o-|dddddd--|--o---o-|--o---o-|
+T2|--------|------d-|--------|--------|
+FT|--------|-------d|--------|--------|
+B |oo-ooo-o|o-o-o-o-|o---o---|o---o--o|
+  |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|
+
+CR|XxXxXxXx|XxXxXxXx|XxXxXxXx|XxXxXxXx|
+S |--o---o-|--o---o-|--o---o-|--o--oo-|
+B |o---o---|o---o--o|o---o---|o---o--o|
+  |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|
+
+CR|XxXxXxXx|XxXxX---|XxXxXxXx|XxXxXxXx|
+HH|--------|-----x+x|+-------|--------|
+S |--o---o-|--o--o-o|--o---o-|--o---o-|
+B |o---o---|o---o-o-|o---o---|o---o--o|
+  |1+2+3+4+|1+2+3+4+|1+2+3+4+|1+2+3+4+|
+
+CR|XxXxXxXx|XxXxX---|XxXxXxX#|
+HH|--------|-----x+x|+-------|
+S |--o---o-|--o--o-o|--o---o-|
+B |o---o---|o---o-o-|o---o---|
+  |1+2+3+4+|1+2+3+4+|1+2+3+4+|
+  
+
+_________________________
+Hosted on: www.fftabs.com

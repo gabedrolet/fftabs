@@ -1,0 +1,125 @@
+Foo Fighters - I Should Have Known
+
+Album: Wasting Light
+Instrument: Drums
+Drummer: Taylor Hawkins
+Tempo: 115 BPM
+Time Signature: 4/4
+Tabbed By: Nicholas P
+
+Visit http://www.cygnusproductions.com/rtp/drums/dtab_explanation.txt
+for info on how to read this.
+Each - means Eighth note where not stated.
+For the toms in this tab:
+H - High tom
+M - Medium tom
+F - Floor tom 
+
+
+No drums in Intro or Verse.
+
+Pre-Chorus
+Starts at about 49.5 seconds in.
+
+    w hh qqqq w  x3
+C||:-|-C|S---|-:|
+
+Chorus
+             x5
+T||:H--M--F-:|-|-|
+
+
+Verse
+
+Each - means Sixteenth note. 
+                                    x8       
+C||:C-RRR-R-R-R-R-R|C-RRR-R-R-R-R-R:|
+S||:------X-----X--|------X-----X--:|
+K||:X---------X---X|X---------X---X:|
+
+Pre-Chorus
+   
+                              v This bar is 16th notes
+C||C---C---|C---C---|C--C--C-|----------------|
+H||-OOO-OOO|-OOO-OOO|-OO-OO-O|----------------|
+T||--------|--------|--------|H----------H--HH|
+S||----X---|----X---|---X--X-|--X--XX-XX--XX--|
+K||X--X---X|X--X---X|X-X--X-X|----------------|
+
+                             v Snare and Floor Tom are played like a flam.
+                            ss       ssss
+C||C---C---|C---C---|C--C-----|-C--------|
+H||-OOO-OOO|-OOO-OOO|-OO-OOOO-|----O-----|
+T||--------|--------|--------F|--------HH|
+S||----X---|----X---|---X--X-X|-X--X-XX--|
+K||X--X---X|X--X---X|X-X--X---|X-XX-X----|
+
+                           ssss    ss    
+C||C---C---|C---C---|C--C------|---------|
+H||-OOO-OOO|-OOO-OOO|-OO-OO----|---------|
+T||--------|--------|-------3--|-HH---HMF|
+S||----X---|----X---|---X--X--X|X--XXX---|
+K||X--X---X|X--X---X|X-X--X----|---------|
+
+Chorus
+Lower-Case letters mean ghost notes.
+             x11
+
+C||:Cs-Cs-C-:|CSSSSCCC|CCCCCC--|     
+S||:---X--X-:|XXXXXXXX|XXXXXXF-|
+K||:X-X--X-X:|XXXXXXXX|XXXXXXXX|
+
+Interlude
+
+   v Beat one      v End beat one
+                        ssssssssss ssssssssssssssss
+C||C--sC--s|C--sC--s|C------------|----------------|
+H||--O---O-|--O---O-|-------------|--HHMM---HH---HH|
+T||--------|--------|-------------|XX----XXX--XXX--|
+S||--X---X-|--X---X-|----XX--X--X-|----------------|
+K||XX-XXX-X|XX-XXX-X|XXXX---X-XX--|----------------|
+
+Play beat one then:
+       333
+       sss ssss ssssssssssssssss
+C||C-----------|----------------|
+H||O-O---------|----------------|
+T||------f-----|--------------HH|
+S||--X--X--X-XX|-X--XX----XXXX--|
+K||XX-XX--X-X--|X-X---X-X-------|
+
+Brdige
+Play beat one then:
+
+     ssss  ssss ssssssssssss  
+C||CS----CS----|C------------C|
+T||------------|--H-HH--H-HH--|
+S||---XX----XX-|---X--X--X--X-|
+K||XXX---XXX---|X------------X|
+
+Play beat one then:
+     ssssssss   ssss  ssssssss
+C||CS----------|--------------|
+T||---------HHH|H-H--H--------|
+S||---XX-XX----|-X--X-XXXXXXXX|
+K||XXX---------|--------------|
+
+Chorus
+    v======== beat 2
+           x11 333
+               sssqssssssss
+C||:C--Cs-C-:|C------------|
+T||:--------:|--HT-F--F--F-|
+S||:X--X--X-:|XX---X--X--X-|
+K||:-XX-XX-X:|----XX--X--X-|
+
+Play beat 2 5 times then:
+         
+            ssssssssqq
+C||CRRRCCCC|----------|
+S||XXXXXXXX|XXXXXXXXF-|
+K||XXXXXXXX|X-X-X-X-X-|
+
+
+_________________________
+Hosted on: www.fftabs.com

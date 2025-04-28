@@ -1,0 +1,66 @@
+Foo Fighters - In Your Honor
+
+Album: 2005 - In Your Honor
+Instrument: Drums
+Drummer: Taylor Hawkins
+
+
+verse
+cr|X---------------|----------------|        capitals are accented notes
+s |-oooooooOOOOOOOO|OO--------------|
+t |----------------|--OOOOOOOO------|
+ft|----------------|----------OOOOOO|   
+b |o---o---o---o---|o---o---o---o---|
+
+chorus  
+cr|X---------------|----------------|X---------------|----------------| |
+s |-ooOOooOOooOOooO|OooOOooOOooOOooO|-ooOOooOOooOOooO|OooOOooOOooOOooO| |
+b |o---o---o---o---|o---o---o---o---|o---o---o---o---|o---o---o---o---| |
+                                                                        |play 2 times
+cr|X---------------|X---------------|X---------------|----------------| |
+s |-ooOOooOOooOOooO|-ooOOooOOooOOooO|-ooOOooOOooOOooO|OooOoOoOOooOoOOO| |
+b |o---o---o---o---|o---o---o---o---|o---o---o---o---|o---o---o---o---| |
+
+Last measure is different on the second time played of the chorus
+cr|X---------------|
+s |-ooOOooOOOOOOOOO|
+b |o---o---o---o---|
+
+Interlude
+cr|X---------------|----------------|----------------|----------------|
+fl|-ooO-O-ooO-O-ooO|-ooO-O-ooO-O-ooO|-ooO-O-ooO-O-ooO|-ooO-O-ooO-O-o--|
+s |----------------|----------------|----------------|--------------oo| x2
+b |o---o---o---o---|o---o---o---o---|o---o---o---o---|o---o---o---o---|
+
+cr|X---------------|X---------------|X---------------|----------------|
+fl|-ooO-O-ooO-O-ooO|-ooO-O-ooO-O-ooO|-ooO-O-ooO-O-ooO|-ooO-O-ooO-O-o--|
+s |----------------|o---------------|o---------------|o-------------oo| x2
+b |o---o---o---o---|o---o---o---o---|o---o---o---o---|o---o---o---o---|
+
+cr|X---------------|------------X---|
+HH|----X---X---X---|X---X---X-------| x4
+s |----o-------o---|----o-------o---|
+b |o-o----o-o------|o-o----o-o------|
+
+last measure is different
+s|OoooOoooOoooOooo|
+b|o---o---o---o---|
+
+cr|X---X---X---X---|X---X---X---X---|
+HH|----------------|----------------| x4
+s |----o-------o---|----o-------o---|
+b |o-o----o-o------|o-o----o-o------|
+last measure is different
+cr|X---X---X---X---|
+HH|----------------|
+s |----o---------oo|
+b |o-o----o-o------|
+
+
+cr|----XX----XX---X|----XX----XX---X|----XX----XX---X|----XX----XX----|
+s |----oo----oo---o|----oo----oo---o|----oo----oo---o|----oo----oo--oo|  Reapeat until the end
+b |o-o----o-o--o-o-|o-o----o-o--o-o-|o-o----o-o--o-o-|o-o----o-o--o---|
+
+
+_________________________
+Hosted on: www.fftabs.com

@@ -1,0 +1,160 @@
+Foo Fighters – Times Like These
+
+Album: 2006 - Skin And Bones
+Instruments: Guitars
+Tuning: eBGDAE
+
+Tabbed By: Nic Wright & LukeAV
+
+
+(Chord shapes) {pick them and have the strumming dude/chick in the background)
+D   - xx0232
+Am  - x02210
+Am7 - x02213
+C   - x32013 *when strumming this chord like the am/7 do the same and put the pinkie in the same spot
+Em7 - 022033
+
+
+This is for the Times Likes These of the new live album Skin And Bones. I haven't heard any others but I
+I'm pretty sure that he picks the verses in this one. Though it does sound good with a steel string acoustic
+picking the notes, and a classical guitar strumming them in the background, but that is a story for another day.
+
+
+Intro: a plain D while hammering the A (2nd fret) on the G sting.
+e||---2-2-2---2-----2-----2-----2-2---||
+B||o--3-3-3---3-----3-----3-----3-3--o||
+G||---0-2-2-0-2---0-2---0-2---0-2-2---||x3
+D||---0-0-0-0-0---0-0---0-0---0-0-0---||
+A||o---------------------------------o||
+E||-----------------------------------|| 
+
+
+This is the picking for the Verses, its quite easy its basically a lifting of one finger or so
+	D			   
+e||-------0-----2------0------||
+B||-----3---3------3-----3----||
+G||---2-------2------2-----2--||
+D||-0-------------------------||
+A||---------------------------||
+E||---------------------------||
+  
+   Am7		Am	 Am7	  C		 
+e||-------3-----0-----3-------------3------------0-------||
+B||-----1---1-----1-----1-----------1-1----------1-1-----||
+G||---2-------2-----2-------------0-----0------0-----0---||
+D||-2---------------------------2------------2-----------||
+A||------------------------2--3------------2-------------||
+E||------------------------------------------------------||
+
+
+Strumming pattern:
+
+(strumming pattern is consistent mostly throughout with limited variations,
+with the exception of the intro and the d chord, they kinda meld too so watch out for that)
+
+D				Am	     Am7        
+d-d-u-u-d-u-d-d-u-u-d-u	d-d-u-u-d-u-d-d-u-u-d-u
+
+*then hit 2nd fret a string*
+C	     *pinkie down*   Em7            D(intro)
+d-d-u-u-d-u-d-d-u-u-d-u	d-d-d-d-d-u
+
+
+Verse
+D                Am    Am7
+I, I’m a one way motorway 
+                 C             Em7             D intro 
+I’m the one that drives away, follows you back home
+D                    Am  Am7
+I, I’m a streetlight shining
+                  C                Em      Em7      D intro 
+I’m a white light blinding bright, burning off and on
+
+
+Chorus
+     C                     Em7           D 
+It’s times like these you learn to live again
+     C                    Em7            D 
+It’s times like these you give and give again
+     C                    Em7            D 
+It’s times like these you learn to love again
+     C                 Em7           D intro
+It’s times like these time and time again
+
+
+Verse
+D                Am    Am7
+I, I’m a new day rising
+                C               Em7          D intro
+I’m a brand new sky that hangs stars upon tonight
+D                 Am   Am7
+I, I’m a little divided
+             C            Em7            D intro
+Do I stay or run away and leave it all behind
+
+
+Interlude
+
+This has 3 unique guitar parts so heres all 3... You could easily cut out the guitar 2 in this part if there are only two guitarists playing...
+If there's only you... Just skip it...
+
+guitar 1
+e||--------------------------------------------------------------------------------------------------||
+B||--------------------------------------------------------------------------------------------------||
+G||--7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-5-5-5-5-5-5-5-5-5-5-5-5-5-5-7-7-4-4-4-4-4-4-4-4-4-4-4-4-4-4-2-2-||
+D||--7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-5-5-5-5-5-5-5-5-5-5-5-5-5-5-7-7-4-4-4-4-4-4-4-4-4-4-4-4-4-4-2-2-||
+A||--5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-3-3-3-3-3-3-3-3-3-3-3-3-3-3-5-5-2-2-2-2-2-2-2-2-2-2-2-2-2-2-0-0-||
+E||--------------------------------------------------------------------------------------------------|| x 11
+
+guitar 2
+e||-----------------------------------------------------------------------------------------------------------------------------||
+B||--10-10-10-10-10-10-10-10-10-10-10-10-10-10-10-10--8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-8-10-10-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-5-5-||
+G||---x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x--x--x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-||
+D||---7--7--7--7--7--7--7--7--7--7--7--7--7--7--7--7--5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5--7--7-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-4-2-2-||
+A||-----------------------------------------------------------------------------------------------------------------------------||
+E||-----------------------------------------------------------------------------------------------------------------------------|| x5 
+
+Guitar 2 then changes to a variation of the riff played by guitar 3 until the end of the interlude
+the (0)s are in brackets because it is not vital you play them. in fact I think it sounds better if you dont.
+
+e|---------------------------------------------------------|
+B|---------------------------------------------------------|
+G|----------------12-11-------------------12-11-------11---|
+D|-(0)-12-10-(0)----------(0)-12-10-(0)----------10h12-----|
+A|---------------------------------------------------------|
+E|---------------------------------------------------------|
+
+guitar 3 comes in with riff from the electric version after 3x guitar 1 and the octaves are played 'til the end of interlude
+
+e|-----------------------------------------------|
+B|-----------------------------------------------|
+G|-------------12-11--------------12-11----------|
+D|-0-12-10-0----------0-12-10-0------------------|
+A|-----------------------------------------12-10-|
+E|-----------------------------------------------|
+
+last time
+e|---------------------------------------------------|
+B|---------------------------------------------------|
+G|-------------12-11---------------12-11-------------|
+D|-0-12-10-0-----------0-12-10-0---------------------|
+A|------------------------------------------12-10-12-|
+E|---------------------------------------------------|
+
+
+Chorus
+     C                     Em7           D 
+It’s times like these you learn to live again
+     C                    Em7            D 
+It’s times like these you give and give again
+     C                    Em7            D 
+It’s times like these you learn to love again
+     C                 Em7           D 
+It’s times like these time and time again
+
+
+Then just slowly strum another C (with the pinky down on the third fret) and you're done
+
+
+_________________________
+Hosted on: www.fftabs.com

@@ -1,0 +1,155 @@
+Foo Fighters - Baker Street
+(Normal Tuning)
+
+
+Key:
+10b   - Bend note
+13h   - Hammer-on
+12p   - Pull-off
+13/10 - Slide to next note
+10~~~ - Hold note
+(7)   - Ghost note, don't necessarily play it
+(x12) - Play 12 times
+
+
+Intro
+e||--------------------------|------------------|------------------------||
+B||--------------------------|------------------|------------------------||
+G||--4b-4b-2-0---3-0---------|------------------|-4b-4b-2-0---3-0--------||
+D||------------3-----1-3-0-0-|---9-------8---5--|-----------3-----1-3-0--||
+A||--------------------------|-7---(7)-6---3----|------------------------||
+E||--------------------------|------------------|------------------------||
+
+
+Intro/Solo 1
+(Rhythm Gtr.)
+           D5                  D5                 C5     A5       G5
+e||--------------------|-------------------|--------------------|------------------|| 
+B||--------------------|-------------------|--------------------|------------------|| 
+G||--------7-7---7-7-7-|-------7-7---7-7-7-|------5-5--5--------|-------PM---------|| 
+D||--------7-7---7-7-7-|-------7-7---7-7-7-|------5-5--5-7--7-7-|-5-5-5-5-5-5-5-5--|| 
+A||--------5-5---5-5-5-|-------5-5---5-5-5-|------3-3--3-7--7-7-|-5-5-5-5-5-5-5-5--|| 
+E||--10s3--------------|-10s3--------------|-10s3--------5--5-5-|-3-3-3-3-3-3-3-3--|| 
+
+(Lead Gtr.)
+e||-----13-12-10---10h12p10-|----13-12-10-----------|----13-12-10---10h12p10-------||
+B||--10---------13h---------|-10---------13h-13-10--|-10---------13h----------8-6--||
+G||-------------------------|-----------------------|------------------------------||
+D||-------------------------|-----------------------|------------------------------||
+A||-------------------------|-----------------------|------------------------------||
+E||-------------------------|-----------------------|------------------------------||
+
+
+Verse 1
+    A   A  Em G   D Dsus D 
+e||-5-|-5-|---3-|-2--3--2-|| 
+B||-5-|-5-|-8-3-|-3--3--3-|| 
+G||-6-|-6-|-9-4-|-2--2--2-|| 
+D||-7-|-7-|-9-5-|---------|| 
+A||---|---|-7---|---------|| 
+E||---|---|-----|---------|| 
+
+A
+Winding your way down on Baker Street
+A
+Light in your head, and dead on your feet
+     Em                     G
+Well another crazy day, you drink the night away
+    D
+And forget about everything
+
+A
+This city's dance makes you feel so cold, it's got
+A
+So many people but its got no soul
+        Em                   G
+And its taken you so long to find out you were wrong
+         D
+When you thought it held everything.
+
+
+Chorus 1
+     Dm Am  Dm Am  C G    D Dsus  Dm Am  Dm Am  C B/G  A     G 
+e||--1----|-1----|----3-|-2-3-2-|-1----|-1----|------|----------||
+B||--3--1-|-3--1-|-1--0-|-3-3-3-|-3--1-|-3--1-|-1--3-|----------||
+G||--2--2-|-2--2-|-0--0-|-2-2-2-|-2--2-|-2--2-|-0--0-|----------||
+D||-----2-|----2-|-2--0-|-------|----2-|----2-|-2--0-|-7-7-7-5--||
+A||-----0-|----0-|-3--2-|-------|----0-|----0-|-3--2-|-7-7-7-5--||
+E||-------|------|----3-|-------|------|------|------|-5-5-5-3--||
+
+Dm                            Am
+You used to think that it was so easy
+Dm                          Am
+You used to say that it was so easy
+    C              G             D
+But you're trying, you're trying now
+Dm                          Am    
+Another year and then you'd be happy
+Dm                                Am
+Just one more year and then you'd be happy
+    C              G             A    G
+But you're crying, you're crying now
+
+
+(REPEAT SOLO 1)
+
+
+Verse 2
+A
+Way down the street there's a light in his place
+A
+You open the door, he's got that look on his face
+       Em                               G
+And he asks you where you've been, you tell him who you've seen
+        D
+And you talk about everything
+
+A
+He's got this dream about buying some land
+A
+He's gonna give up the crack and the one night stands
+    Em                             G
+And then he'll settle down, it's a quiet little town
+    D
+And forget about everything
+
+
+Chorus 2
+Dm                        Am
+But you know he'll always keep moving
+Dm                        Am 
+You know he's never gonna stop moving
+C                   G                D
+Cause he's rolling, he's the rolling stone
+Dm                          Am
+And when you wake up it's a new morning
+Dm                        Am
+The sun is shining it's a new morning
+C                 G            A     D
+And you're going, you're going home
+
+
+(REPEAT SOLO 1)
+
+(REPEAT INTRO)
+
+
+Solo 2 (D5 is strummed by rhythm guitar while playing this)
+e||--20-20-20-20\22-17-17-15-13-17b-15-13\10-10b~~~~~~~-13-15-17-|--17b--|
+B||--------------------------------------------------------------|-------|
+G||--------------------------------------------------------------|-------|
+D||--------------------------------------------------------------|-------|
+A||--------------------------------------------------------------|-------|
+E||--------------------------------------------------------------|-------|
+                                                                   (x10)
+
+e|--20-20-20-20\22-10b-10-8-----------------------17-|-17b--||
+B|--------------------------10-8--10-8---------------|------||
+G|-------------------------------------10-7----------|------||
+D|------------------------------------------10\12----|------||
+A|---------------------------------------------------|------||
+E|---------------------------------------------------|------||
+                                                      (x12)
+
+_________________________
+Hosted on: www.fftabs.com

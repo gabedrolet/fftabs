@@ -1,0 +1,55 @@
+Foo Fighters - New Way Home (Drum)
+
+
+Legend:
+HH-Hi Hat
+CR-Crash Cymbal
+SN-Snare Drum
+BD-Bass Drum
+FT-Floor Tom
+x-regular hi hat beat
+o-regular snare and bass drum beat
+^-crash
+
+
+This is one of the two main parts. sometimes it is played with a ride instead of a hi hat.
+
+HH x---x---x---x---
+   ----------------
+SN o---o---o---o---
+BD --o---o---o---o-
+   ----------------
+   1 + 2 + 3 + 4 +
+
+
+This is the other main part.
+
+HH x---x---x---x---
+   ----------------
+SN ----o-------o---
+BD o-o---o-o-------
+   ----------------
+   1 + 2 + 3 + 4 +
+
+
+This is played during the quiet part.
+
+HH -------------------------------
+FT o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
+SN o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o
+BD -------------------------------
+   -------------------------------
+   1   +   2   +   3   +   4   +
+
+
+Sometimes this is played with a crash instead of a hi hat too.
+
+HH x---x---x---x---
+   ----------------
+SN o---o---o---o---
+BD -ooo-ooo-ooo-ooo
+   ----------------
+   1 + 2 + 3 + 4 +
+
+_________________________
+Hosted on: www.fftabs.com

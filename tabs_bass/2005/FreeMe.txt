@@ -1,0 +1,65 @@
+Foo Fighters - Free Me
+
+Album: 2005 - In Your Honor
+Instrument: Bass
+Tuning: GDAE
+
+Intro is on guitar etc. This song basically uses 
+the same riff for most of the song. If possible, 
+for the heavy bit have bass settings to full and mid level, 
+then during the chorus pick the treble up. I haven't got
+everything in order, but it's very easy to work out; just
+listen to the song. Try to take note of the loudness of
+certain "high" notes, such as the bridge as that
+should be played fairly quietly on bass.
+
+-Verse-
+
+G|----------------------------|
+D|----------------------------|
+A|----------------------------|
+E|-0-0-7-0-6-5--0-0-7-0-6-5---|
+
+
+G|-------------------------------------------|
+D|-------------------------------------------|
+A|---------7---------7---------7-------------|
+E|-0-0-7-0---0-0-7-0---0-0-7-0---0-0-7-0-6-5-| played multiple times
+
+G|--------------|
+D|--------------|
+A|--------------|
+E|-0-0-7-0-6-5--|
+
+-Chorus-
+
+*play multiple times, it's all quite straight forward
+
+G|----------------------------|
+D|----------------------------|
+A|----------------------------|
+E|-3*----5*----4*----0*-------|
+
+-Bridge-
+
+Goes back into verse after a short baseless section, and then back 
+into chorus after that. Then into this bridge.
+
+G|----------------------------|
+D|----------------------------|
+A|----------------------------|  x2
+E|-8*----10*----5*------------|
+
+It might sound better played on its corresponding notes on the A string,
+ie A3 and A5.
+
+G|----------------------------|
+D|----------------------------|
+A|----------------------------| X1
+E|-7-7-6-6-3-3-3-0------------|
+
+Then goes back into verse, then chorus again etc. you'll work it out.
+
+
+_________________________
+Hosted on: www.fftabs.com

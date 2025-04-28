@@ -1,0 +1,238 @@
+Foo Fighters - Miss the Misery
+
+Album: Wasting Light
+Instrument: Drums
+Drummer: Taylor Hawkins
+Time Signature:6/4 or 4/4, changes throughout.
+Tempo: 120 BPM
+Tabbed By: Nicholas P.
+
+For information on how to read this text:
+http://www.cygnusproductions.com/rtp/drums/dtab_explanation.txt
+
+For this tab the toms are:
+H - High Tom
+F - Floor Tom
+
+Intro 6/4 (Beginning with guitar is 4/4 I believe)
+Each - means Eighth note where not stated.
+The drums start at about 12.5 seconds in. This may be hard to time. 
+
+  qqqqqq
+S|-----F|
+                                                      333
+   q q q q q q  q q q q q q  q q q q q q  eeeeeessssssssssse
+C||C-R-R-R-R-R-|R-R-R-R-R-R-|C-R-R-R-R-R-|C-R-R-R-----------|
+T||------------|------------|------------|---------------31-|
+S||--X---X---X-|--X---X---X-|--X---X---X-|--X---X--XX---X---|
+K||X--X-X--XX-X|X--X-X--XX-X|X--X-X--XX-X|X--X-X------------|
+
+Beat 1                                                 End Beat 1
+C||C-B-B-B-B-B-|C-B-B-B-B-B-|C-B-B-B-B-B-|C-B-B-B--C-C|
+S||--X---X---X-|--X---X---X-|--X---X---X-|--X---X-F-F-|
+K||X--X-X--XX--|X--X-X--XX-X|X--X-X--XX--|X--X-X---X-X|
+
+Verse 6/4
+Each - means Eighth note where not stated.
+
+C||C-----------|------------|------------|------------|
+H||--XXXXXXXXXX|O-XXXXXXXXXX|O-XXXXXXXXXX|O-XXXXXXXXXX|
+S||--X---X---X-|--X---X---X-|--X---X---X-|--X---X---X-|
+K||X--X-X--XX-X|X--X-X--XX-X|X--X-X--XX-X|X--X-X--XX-X|
+H||------------|--P---------|--P---------|--P---------|
+    
+Target 1                                             ss 
+H||--XXXXXXXXXX|O-XXXXXXXXXX|O-XXXXXXXXXX|O-XXXXXXO-O--|
+S||--X---X---X-|--X---X---X-|--X---X---X-|--X---X---XXX|
+K||X--X-X--XX-X|X--X-X--XX-X|X--X-X--XX-X|X--X-X--XX---|
+H||------------|--P---------|--P---------|--P----------|
+
+Gradually Open Hi-hat throughout this line.
+C||C-----------|------------|------------|---------C-C|
+H||--X-X-X-X-X-|X-X-X-X-X-X-|X-X-X-X-X-X-|X-X-X-X-----|
+S||--X---X---X-|--X---X---X-|--X---X---X-|--X---X-F-F-|
+K||X--X-X--XX-X|X--X-X--XX-X|X--X-X--XX-X|X--X-X---X-X|
+
+Pre-Chorus 4/4
+Each - means Eighth note where not stated. 
+
+C||C-------|--------|C-------|--------|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+T||-FFFFFFF|-FFFFFFF|-FFFFFFF|-FFFFFFF|
+K||XX-XXX-X|XX-XXX-X|XX-XXX-X|XX-XXX-X|
+
+                                   ssssss
+C||C-------|--------|C-------|C----------|
+S||--X---X-|--X---X-|--X---X-|X--XXXXXXXX|
+T||-FFFFFFF|-FFFFFFF|-FFFFFFF|-FFF-------|
+K||XX-XXX-X|XX-XXX-X|XX-XXX-X|XXXX-------|
+H||--------|--------|--------|--P--------|
+
+Chorus 4/4
+Each - means Eighth note where not stated.
+
+C||C-------|--------|C-------|--------|
+H||--O-O-O-|O-O-O-O-|--O-O-O-|O-O-O-O-|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||XX-XXX-X|XX-XXX-X|XX-XXX-X|XX-XXX-X|
+
+                 ssssss
+C||C-------|-----------|
+H||--O-O-O-|O-O--------|
+S||--X---X-|X-X--XXXXXX|
+K||XX-XXX-X|-X-X-------|
+
+Post-Chorus
+Same as beat 1
+When finished, go to Target 1, play though everything again and continue here:
+
+Bridge 4/4
+Each - means Eighth note where not stated.
+
+C||CCC-----|--------|CCC-----|--------|
+H||----X-X-|X-X-X-X-|----X-X-|X-X-X-X-|
+S||X-X-X-X-|X-X-X-X-|X-X-X-X-|X-X-X-X-|
+K||XXX-X-X-|X-X-X-X-|XXX-X-X-|X-X-X-X-|
+
+C||CCC-----|--------|CCC-----|-----C-C|
+H||----X-X-|X-X-X-X-|----X-X-|X-X-----|
+S||X-X-X-X-|X-X-X-X-|X-X-X-X-|X-X-F-F-|
+K||XXX-X-X-|X-X-X-X-|XXX-X-X-|X-X--X-X|
+
+C||C-R-R-R-|R-R-R-R-|C-R-R-R-|R-R-R-R-|
+S||X-X-X-X-|X-X-X-X-|X-X-X-X-|X-X-X-X-|
+K||-X-X-X-X|-X-X-X-X|-X-X-X-X|-X-X-X-X|
+
+          ss ssssssssssssee
+C||C-R-R-R--|--------------|
+T||---------|H---H-----HH--|
+S||X-X-X-X-X|---X-XX-XX--X-|
+K||-X-X-X---|-------------X|
+
+Solo 6/4
+Each - means Eighth note where not stated.
+ 
+C||C-R-R-R-R-R-|C-R-R-R-R-R-|C-R-R-R-R-R-|C-R-R-R-R-R-|
+S||X-X-X-X-X-X-|X-X-X-X-X-X-|X-X-X-X-X-X-|X-X-X-X-X-X-|
+K||---X-X---X-X|---X-X---X-X|---X-X---X-X|---X-X---X-X|
+ 
+                                                 333
+                      ss                         sssqq
+C||C--C-C--CCC-|C--C-C--CCC-|C-R-R-R-R-R-|C-R-R-R-----|
+T||------------|------------|------------|--------HF--|
+S||--X----X----|--X---XX----|X-X-X-X-X-X-|X-X-X-XX----|
+K||X--X-X--XXX-|X--X-X--XXX-|---X-X---X-X|---X-X----X-|
+
+Chorus 4/4
+Each - means Eighth note when not stated.
+   <                 <
+C||C-C-C-C-|C-C-C-C-|C-C-C-C-|C-C-C-C-|
+S||--X---X-|--X---X-|--X---X-|--X---X-|
+K||XX-XXX-X|XX-XXX-X|XX-XXX-X|XX-XXX-X|
+
+   <                 <               ss
+C||C-C-C-C-|C-C-C-C-|C-C-C-C-|C--C--C--|
+S||--X---X-|--X---X-|--X---X-|X--X--XXX|
+K||XX-XXX-X|XX-XXX-X|XX-XXX-X|-XX-XX---|
+
+   <             ssssss  
+C||C-C-R-R-|C----------|
+T||--------|-FFF-------|
+S||--X---X-|XXXXXXXXXXX|
+K||XX-XXX-X|-XXX-------|
+
+Post-Chorus
+Same as Beat 1.
+
+Outro 6/4
+Each - means Eighth note where not stated.
+                                                 333
+                                                 sssqq
+C||C-C-C-C--C-C|C-C-C-C--C-C|C-C-C-C--C-C|C-C-C-C-----|
+T||------------|------------|------------|--------HF--|
+S||X-X-X-X-F-F-|X-X-X-X-F-F-|X-X-X-X-F-F-|X-X-X-XX----|
+K||---X-X---X-X|---X-X---X-X|---X-X---X-X|---X-X----X-|
+H||------------|------------|------------|----------P-|
+
+
+*Lyrics*
+Intro
+Oh, Oh
+
+Verse 1
+If I had my way,
+If I had to lose,
+Wouldn't take back one thing.
+Never had much to choose.
+
+Then it dawned on me,
+Coming down on you,
+Like a cold sky raining
+Under a burning moon.
+
+Been waiting all your life,
+Your wish is coming true.
+Bless your heart for beating
+Me right out of you.
+
+Pre-Chorus
+Miss the misery,
+Need a reason for a change.
+Need a reason to explain,
+so turn it on again
+
+Chorus
+Don't change your mind.
+Your wasting light.
+Get in and let's
+
+Post-Chorus
+Go, Go.
+
+Verse 2
+What a nice long leash.
+What a nice tight noose.
+Never worked for me but
+Sure would look good on you.
+
+Been waiting all your life,
+Your wish is coming true.
+Bless your heart for beating
+Me right out of you.
+
+Pre-Chorus
+Miss the misery,
+Need a reason for a change.
+Need a reason to refrain,
+so turn it on again
+
+Chorus
+Don't change your mind.
+Your wasting light.
+Get in and let's
+
+Post-Chorus
+Go, Go.
+
+Bridge
+Miss the misery,
+Give me reason for a change.
+Miss the misery,
+Give me reason to refrain.
+
+Miss your misery today.
+Miss your misery today.
+Come on and turn it on again.
+
+Chorus
+Don't change your mind.
+You're wasted light.
+Don't make this right.
+Don't make this right.
+Get in and let's
+
+Post-Chorus
+Go, go.
+
+_________________________
+Hosted on: www.fftabs.com
