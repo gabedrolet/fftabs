@@ -4,22 +4,13 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>fftabs: Foo Fighters tabs archive</title>
-    <meta name="description" content="Archive of Foo Fighters guitar, bass and drums tablatures and lyrics, browsable by album and instrument." />
-    <link rel="icon" href="./favicon.ico" />
-    <!-- link previews (Facebook, Discord, iMessage…) -->
-    <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="fftabs" />
-    <meta property="og:title" content="fftabs: Foo Fighters tabs archive" />
-    <meta property="og:description" content="Guitar, bass and drums tabs and lyrics for every Foo Fighters album, B-sides, covers and side projects." />
-    <meta property="og:url" content="https://fftabs.com/" />
+    <link rel="icon" href="/favicon.ico" />
     <script>
-      // apply the visitor's saved theme (light/dark) before the page paints; see src/lib/theme.ts
       try { var t = localStorage.getItem('fftabs.theme'); if (t === 'light' || t === 'dark') document.documentElement.setAttribute('data-theme', t); } catch (e) {}
     </script>
   </head>
   <body>
     <div id="root"></div>
-    <noscript>This archive needs JavaScript to browse. The raw tab files are in the tabs_guitar, tabs_bass and tabs_drums folders.</noscript>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>

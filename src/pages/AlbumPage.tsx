@@ -5,15 +5,16 @@ import { Link, Pill } from '../components/Link';
 import { PartIcon } from '../components/PartIcon';
 import { Async } from '../components/Status';
 import { TrackTable } from '../components/TrackTable';
-import { loadAlbum } from '../lib/api';
+import { albumKey, loadAlbum } from '../lib/api';
 import { useCatalog } from '../lib/catalog';
-import { useAsync, useTitle } from '../lib/hooks';
+import { useTitle } from '../lib/hooks';
+import { useResource } from '../lib/store';
 import { PARTS, PART_LABEL } from '../lib/types';
 import type { LoadedAlbum, Part } from '../lib/types';
 
 export function AlbumPage({ id, part }: { id: string; part?: Part }) {
   const index = useCatalog();
-  const state = useAsync(() => loadAlbum(index, id), [index, id]);
+  const state = useResource(albumKey(id), () => loadAlbum(index, id));
   return <Async state={state}>{(data) => <AlbumView data={data} part={part} />}</Async>;
 }
 

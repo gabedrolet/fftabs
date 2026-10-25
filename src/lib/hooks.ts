@@ -1,5 +1,7 @@
 import { useEffect, useState } from 'preact/hooks';
 import type { Inputs } from 'preact/hooks';
+import { describe } from './meta';
+import { currentRoute } from './router';
 
 export type AsyncState<T> =
   | { status: 'loading' }
@@ -23,10 +25,14 @@ export function useAsync<T>(fn: () => Promise<T>, deps: Inputs): AsyncState<T> {
   return state;
 }
 
-export function useTitle(title: string | undefined): void {
+/**
+ * Sets the browser tab title for the current page, the same title the prerender puts in
+ * the HTML (see lib/meta.ts). `key` is any value that changes when the page changes.
+ */
+export function useTitle(key: string | undefined): void {
   useEffect(() => {
-    document.title = title ? `${title} · fftabs` : 'fftabs: Foo Fighters tabs archive';
-  }, [title]);
+    document.title = describe(currentRoute()).title;
+  }, [key, typeof location === 'undefined' ? '' : location.pathname + location.search]);
 }
 
 /** A number remembered in localStorage (falls back to memory if storage is blocked). */

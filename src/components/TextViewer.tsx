@@ -1,5 +1,7 @@
 import { getText } from '../lib/api';
-import { useAsync, useStoredNumber } from '../lib/hooks';
+import { useStoredNumber } from '../lib/hooks';
+import { asset } from '../lib/paths';
+import { useResource } from '../lib/store';
 import { Async } from './Status';
 
 type Kind = 'tab' | 'lyrics';
@@ -10,7 +12,7 @@ const DEFAULT_SIZE: Record<Kind, number> = { tab: 13, lyrics: 16 };
 export function TextViewer({ url, kind, title }: { url: string; kind: Kind; title: string }) {
   const [size, setSize] = useStoredNumber(`fftabs.fs.${kind}`, DEFAULT_SIZE[kind]);
   const isPdf = /\.pdf$/i.test(url);
-  const text = useAsync(() => (isPdf ? Promise.resolve('') : getText(url)), [url]);
+  const text = useResource(`text:${url}`, () => (isPdf ? Promise.resolve('') : getText(url)));
   const bump = (d: number) => setSize(Math.min(28, Math.max(9, size + d)));
 
   return (
@@ -23,10 +25,10 @@ export function TextViewer({ url, kind, title }: { url: string; kind: Kind; titl
           </>
         )}
         <span class="spacer" />
-        <a href={url} target="_blank" rel="noopener">Open raw file</a>
+        <a href={asset(url)} target="_blank" rel="noopener">Open raw file</a>
       </div>
       {isPdf ? (
-        <iframe class="pdf" src={url} title={`${title} (PDF)`} />
+        <iframe class="pdf" src={asset(url)} title={`${title} (PDF)`} />
       ) : (
         <Async state={text}>
           {(t) => (

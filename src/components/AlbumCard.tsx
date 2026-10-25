@@ -1,3 +1,4 @@
+import { asset } from '../lib/paths';
 import { PARTS, PART_LABEL } from '../lib/types';
 import type { AlbumSummary } from '../lib/types';
 import { Link } from './Link';
@@ -5,7 +6,7 @@ import { PartIcon } from './PartIcon';
 
 export function Cover({ album }: { album: { title: string; cover?: string } }) {
   return album.cover ? (
-    <img class="cover" src={album.cover} alt="" loading="lazy" />
+    <img class="cover" src={asset(album.cover)} alt="" loading="lazy" />
   ) : (
     <div class="cover placeholder">{album.title}</div>
   );

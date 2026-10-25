@@ -41,6 +41,7 @@ for p in sorted(glob.glob(os.path.join(D, "albums", "album_*.json"))):
                 errors.append(f"album_{aid}: missing file {f}")
     counts = {"tracks": len(ids)}
     have = {t: [] for t in ids}
+    versions = {}  # (track id, part) -> number of files
     for part in PARTS:
         fp = os.path.join(D, part, f"{part}_{aid}.json")
         if not os.path.exists(fp):
@@ -54,11 +55,13 @@ for p in sorted(glob.glob(os.path.join(D, "albums", "album_*.json"))):
                 errors.append(f"{part}_{aid}.json: unknown track id '{tid}'")
                 continue
             have[tid].append(part)
+            versions[(tid, part)] = len(paths(v))
             for f in paths(v):
                 referenced.add(f)
                 if not os.path.exists(os.path.join(REPO, f)):
                     errors.append(f"{part}_{aid}.json: missing file {f}")
     a["_have"] = have
+    a["_versions"] = versions
     a["_counts"] = counts
     albums.append(a)
 
@@ -81,26 +84,38 @@ for a in albums:
         if a["_have"][t["id"]]:
             index["search"].append([t["title"], a["id"], t["id"], a["_have"][t["id"]]])
 
-# old fftabs.com URL -> new hash route
-red = {"index.php": "#/", "legal.php": "#/legal", "sideprojects.php": "#/", "search.php": "#/",
-       "lyrics.php": "#/instrument/lyrics", "tabs_drums_more.php": "#/instrument/drums"}
+# old fftabs.com URL -> new page address (used by 404.html)
+red = {"index.php": "/", "legal.php": "/legal/", "sideprojects.php": "/", "search.php": "/search/",
+       "lyrics.php": "/instrument/lyrics/", "tabs_drums_more.php": "/instrument/drums/"}
 for i in ["guitar", "bass", "drums"]:
-    red[f"tabs_{i}.php"] = f"#/instrument/{i}"
-    red[f"tabs_{i}_more.php"] = f"#/instrument/{i}"
+    red[f"tabs_{i}.php"] = f"/instrument/{i}/"
+    red[f"tabs_{i}_more.php"] = f"/instrument/{i}/"
     for a in albums:
         if a.get("year") and a["id"].isdigit():
-            red[f"tabs_{i}_{a['id']}.php"] = f"#/album/{a['id']}/{i}"
+            red[f"tabs_{i}_{a['id']}.php"] = f"/album/{a['id']}/{i}/" if a["_counts"].get(i) else f"/album/{a['id']}/"
     for old, new in list(OLD_IDS.items()) + [(a["id"], a["id"]) for a in albums if not a["id"].isdigit()]:
-        red[f"tabs_{i}_more.php?show={old}"] = f"#/album/{new}/{i}"
+        red[f"tabs_{i}_more.php?show={old}"] = f"/album/{new}/{i}/"
 for a in albums:
     if not a["id"].isdigit():
         continue
-    red[f"lyrics_{a['id']}.php"] = f"#/album/{a['id']}/lyrics"
+    red[f"lyrics_{a['id']}.php"] = f"/album/{a['id']}/lyrics/"
     tracks = a.get("tracks", [])
     if not any(t.get("disc") for t in tracks):
         for t in tracks:
             if t.get("n") and "lyrics" in a["_have"][t["id"]]:
-                red[f"lyrics_{a['id']}.php?track={t['n']}"] = f"#/song/{a['id']}/{t['id']}/lyrics"
+                red[f"lyrics_{a['id']}.php?track={t['n']}"] = f"/song/{a['id']}/{t['id']}/lyrics/"
+
+# every page address, prerendered to <address>/index.html by `npm run build` (see vite.config.ts)
+routes = ["/", "/search/", "/legal/"] + [f"/instrument/{p}/" for p in PARTS]
+for a in albums:
+    routes.append(f"/album/{a['id']}/")
+    routes += [f"/album/{a['id']}/{p}/" for p in PARTS if a["_counts"].get(p)]
+    if a.get("lyricsSheet"):
+        routes.append(f"/sheet/{a['id']}/")
+    for t in a.get("tracks", []):
+        for p in a["_have"][t["id"]]:
+            routes.append(f"/song/{a['id']}/{t['id']}/{p}/")
+            routes += [f"/song/{a['id']}/{t['id']}/{p}/{v}/" for v in range(2, a["_versions"][(t["id"], p)] + 1)]
 
 def dump(path, obj):
     with open(path, "w", encoding="utf-8", newline="\n") as f:
@@ -108,12 +123,13 @@ def dump(path, obj):
         f.write("\n")
 dump(os.path.join(D, "index.json"), index)
 dump(os.path.join(REPO, "redirects.json"), dict(sorted(red.items())))
+dump(os.path.join(D, "routes.json"), routes)
 
-# sitemap.xml: basic for now, just the home page. Album and song pages use #/ addresses,
-# which search engines treat as the home page; they'll be listed here once the site
-# has real page addresses (/album/1997/, /song/…/).
+# sitemap.xml: every page except search (empty until you type) and alternate versions
 from xml.sax.saxutils import escape
-urls = [SITE_URL]
+def is_version(r):  # /song/<album>/<track>/<part>/<n>/
+    return r.startswith("/song/") and r.rstrip("/").split("/")[-1].isdigit()
+urls = [SITE_URL.rstrip("/") + r for r in routes if r != "/search/" and not is_version(r)]
 with open(os.path.join(REPO, "sitemap.xml"), "w", encoding="utf-8", newline="\n") as f:
     f.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
     for u in urls:
@@ -124,6 +140,6 @@ with open(os.path.join(REPO, "robots.txt"), "w", encoding="utf-8", newline="\n")
 
 for w in warnings: print("WARN ", w)
 for e in errors: print("ERROR", e)
-print(f"{len(albums)} albums, {len(index['search'])} searchable tracks, {len(red)} redirects, {len(urls)} sitemap URLs, "
+print(f"{len(albums)} albums, {len(index['search'])} searchable tracks, {len(red)} redirects, {len(routes)} pages, {len(urls)} sitemap URLs, "
       f"{len(warnings)} warnings, {len(errors)} errors")
 sys.exit(1 if errors else 0)

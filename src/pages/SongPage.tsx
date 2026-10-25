@@ -4,9 +4,10 @@ import { Link, Pill } from '../components/Link';
 import { PartIcon } from '../components/PartIcon';
 import { Async } from '../components/Status';
 import { TextViewer } from '../components/TextViewer';
-import { filesOf, loadAlbum, partsOfTrack } from '../lib/api';
+import { albumKey, loadAlbum, songFile } from '../lib/api';
 import { useCatalog } from '../lib/catalog';
-import { useAsync, useTitle } from '../lib/hooks';
+import { useTitle } from '../lib/hooks';
+import { useResource } from '../lib/store';
 import { navigate } from '../lib/router';
 import type { Route } from '../lib/router';
 import { PARTS, PART_LABEL } from '../lib/types';
@@ -22,18 +23,13 @@ interface Props {
 
 export function SongPage(props: Props) {
   const index = useCatalog();
-  const state = useAsync(() => loadAlbum(index, props.albumId), [index, props.albumId]);
+  const state = useResource(albumKey(props.albumId), () => loadAlbum(index, props.albumId));
   return <Async state={state}>{(data) => <SongView data={data} {...props} />}</Async>;
 }
 
 function SongView({ data, trackId, part: wanted, version }: Props & { data: LoadedAlbum }) {
   const { album } = data;
-  const track = album.tracks.find((t) => t.id === trackId);
-  const have = track ? partsOfTrack(data, track.id) : [];
-  const part = wanted && have.includes(wanted) ? wanted : have[0];
-  const files = part && track ? filesOf(data.parts[part]?.[track.id]) : [];
-  const vi = Math.min(Math.max(version ?? 1, 1), files.length || 1) - 1;
-  const file = files[vi];
+  const { track, have, part, files, vi, file } = songFile(data, trackId, wanted, version);
 
   // prev / next track that has the same part
   const seq = part ? album.tracks.filter((t) => data.parts[part]?.[t.id] !== undefined) : [];

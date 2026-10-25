@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from 'preact/hooks';
+import { asset } from '../lib/paths';
 import { navigate } from '../lib/router';
 import type { Route } from '../lib/router';
 import { PARTS, PART_LABEL } from '../lib/types';
@@ -29,7 +30,7 @@ export function Header({ route }: { route: Route }) {
     <header class="site-header">
       <div class="wrap header-row">
         <Link to={{ name: 'home' }} class="brand" aria-label="fftabs home">
-          <img src="images/logo_fftabs_white.png" alt="" width={63} height={44} />
+          <img src={asset('images/logo_fftabs_white.png')} alt="" width={63} height={44} />
         </Link>
         <nav class="main-nav" aria-label="Instruments">
           <Link to={{ name: 'home' }} class={active === 'home' ? 'active' : undefined}>
@@ -79,7 +80,7 @@ function SearchBox({ route }: { route: Route }) {
     setValue(q);
     window.clearTimeout(timer.current);
     timer.current = window.setTimeout(() => {
-      navigate({ name: 'search', q: q.trim() }, { replace: location.hash.startsWith('#/search/') });
+      navigate({ name: 'search', q: q.trim() }, { replace: onSearch });
     }, 150);
   };
 

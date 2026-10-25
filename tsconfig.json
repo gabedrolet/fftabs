@@ -6,7 +6,7 @@
     "moduleResolution": "Bundler",
     "jsx": "react-jsx",
     "jsxImportSource": "preact",
-    "types": ["vite/client"],
+    "types": ["vite/client", "node"],
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,

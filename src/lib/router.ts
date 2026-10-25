@@ -1,8 +1,13 @@
 import { useEffect, useState } from 'preact/hooks';
+import { BASE } from './paths';
 import { isPart } from './types';
 import type { Part } from './types';
 
-/** Every page of the site. Hash-based so it works on GitHub Pages without server config. */
+/**
+ * Every page of the site, with real addresses such as /album/1997/ or
+ * /song/1997/everlong/guitar/. Each one is prerendered to its own index.html
+ * at build time (see src/prerender.ts and data/routes.json).
+ */
 export type Route =
   | { name: 'home' }
   | { name: 'album'; id: string; part?: Part }
@@ -21,14 +26,17 @@ function decode(s: string): string {
   }
 }
 
-export function parseHash(hash: string): Route {
-  const seg = hash.replace(/^#\/?/, '').split('/').map(decode);
+/** Route for a path inside the site ("/album/1997/", with or without BASE) plus its query string. */
+export function parsePath(path: string, search = ''): Route {
+  let p = path.startsWith(BASE) ? path.slice(BASE.length) : path.replace(/^\/+/, '');
+  p = p.replace(/index\.html$/, '');
+  const seg = p.split('/').filter(Boolean).map(decode);
   const [head = '', a, b, c, d] = seg;
   switch (head) {
     case '':
       return { name: 'home' };
     case 'album':
-      return a ? { name: 'album', id: a, part: isPart(b) ? b : undefined } : { name: 'notFound' };
+      return a && seg.length <= 3 ? { name: 'album', id: a, part: isPart(b) ? b : undefined } : { name: 'notFound' };
     case 'instrument':
       return isPart(a) ? { name: 'instrument', part: a } : { name: 'notFound' };
     case 'song':
@@ -38,7 +46,7 @@ export function parseHash(hash: string): Route {
     case 'sheet':
       return a ? { name: 'sheet', id: a } : { name: 'notFound' };
     case 'search':
-      return { name: 'search', q: seg.slice(1).join('/') };
+      return { name: 'search', q: new URLSearchParams(search).get('q') ?? '' };
     case 'legal':
       return { name: 'legal' };
     default:
@@ -46,27 +54,35 @@ export function parseHash(hash: string): Route {
   }
 }
 
+/** Old "#/album/1997" addresses (before real page addresses) → the same page today. */
+export function parseLegacyHash(hash: string): Route | null {
+  if (!hash.startsWith('#/')) return null;
+  const seg = hash.slice(2).split('/');
+  if (seg[0] === 'search') return { name: 'search', q: decode(seg.slice(1).join('/')) };
+  return parsePath('/' + seg.join('/'));
+}
+
 const e = encodeURIComponent;
 
-/** Build the URL for a route, so links are type-checked. */
+/** Build the address of a route, so links are type-checked. Always ends with "/" (one folder per page). */
 export function href(r: Route): string {
   switch (r.name) {
     case 'home':
-      return '#/';
+      return BASE;
     case 'album':
-      return `#/album/${e(r.id)}${r.part ? '/' + r.part : ''}`;
+      return `${BASE}album/${e(r.id)}/${r.part ? r.part + '/' : ''}`;
     case 'instrument':
-      return `#/instrument/${r.part}`;
+      return `${BASE}instrument/${r.part}/`;
     case 'song':
-      return `#/song/${e(r.albumId)}/${e(r.trackId)}${r.part ? '/' + r.part : ''}${r.version && r.version > 1 ? '/' + r.version : ''}`;
+      return `${BASE}song/${e(r.albumId)}/${e(r.trackId)}/${r.part ? r.part + '/' : ''}${r.version && r.version > 1 ? r.version + '/' : ''}`;
     case 'sheet':
-      return `#/sheet/${e(r.id)}`;
+      return `${BASE}sheet/${e(r.id)}/`;
     case 'search':
-      return `#/search/${e(r.q)}`;
+      return `${BASE}search/${r.q ? '?q=' + e(r.q) : ''}`;
     case 'legal':
-      return '#/legal';
+      return `${BASE}legal/`;
     case 'notFound':
-      return '#/404';
+      return BASE;
   }
 }
 
@@ -79,16 +95,18 @@ export function navigate(r: Route, opts: { replace?: boolean } = {}): void {
   window.dispatchEvent(new Event(NAV_EVENT));
 }
 
-/** Current route; re-renders on hash changes, back/forward and navigate(). */
-export function useRoute(): Route {
-  const [route, setRoute] = useState<Route>(() => parseHash(location.hash));
+export function currentRoute(): Route {
+  return parsePath(location.pathname, location.search);
+}
+
+/** Current route; re-renders on navigate() and back/forward. `initial` is used when prerendering. */
+export function useRoute(initial?: Route): Route {
+  const [route, setRoute] = useState<Route>(() => initial ?? currentRoute());
   useEffect(() => {
-    const update = () => setRoute(parseHash(location.hash));
-    window.addEventListener('hashchange', update);
+    const update = () => setRoute(currentRoute());
     window.addEventListener('popstate', update);
     window.addEventListener(NAV_EVENT, update);
     return () => {
-      window.removeEventListener('hashchange', update);
       window.removeEventListener('popstate', update);
       window.removeEventListener(NAV_EVENT, update);
     };

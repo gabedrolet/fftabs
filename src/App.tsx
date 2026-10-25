@@ -2,10 +2,10 @@ import { useEffect } from 'preact/hooks';
 import { Footer } from './components/Footer';
 import { Header } from './components/Header';
 import { Async } from './components/Status';
-import { loadIndex } from './lib/api';
+import { indexKey, loadIndex } from './lib/api';
 import { CatalogContext } from './lib/catalog';
-import { useAsync } from './lib/hooks';
 import { useRoute } from './lib/router';
+import { useResource } from './lib/store';
 import type { Route } from './lib/router';
 import { AlbumPage } from './pages/AlbumPage';
 import { HomePage } from './pages/HomePage';
@@ -37,12 +37,13 @@ function Page({ route }: { route: Route }) {
   }
 }
 
-export function App() {
-  const route = useRoute();
-  const index = useAsync(loadIndex, []);
+/** `route` is only passed when prerendering; in the browser it comes from the address bar. */
+export function App({ route: initial }: { route?: Route }) {
+  const route = useRoute(initial);
+  const index = useResource(indexKey, loadIndex);
 
   // new page → back to the top (but not while typing a search)
-  const key = route.name === 'search' ? 'search' : location.hash;
+  const key = route.name === 'search' ? 'search' : JSON.stringify(route);
   useEffect(() => window.scrollTo(0, 0), [key]);
 
   return (
