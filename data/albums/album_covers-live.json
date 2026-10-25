@@ -1,0 +1,77 @@
+{
+  "id": "covers-live",
+  "title": "Live Covers",
+  "kind": "collection",
+  "tracks": [
+    {
+      "id": "baby-hold-on-to-me",
+      "title": "Baby Hold On To Me",
+      "note": "Eddie Money"
+    },
+    {
+      "id": "blackbird",
+      "title": "Blackbird",
+      "note": "Beatles"
+    },
+    {
+      "id": "born-in-the-bayou",
+      "title": "Born In The Bayou",
+      "note": "Creedence Clearwater Revival"
+    },
+    {
+      "id": "bullet-with-butterfly-wings",
+      "title": "Bullet With Butterfly Wings",
+      "note": "Smashing Pumpkins"
+    },
+    {
+      "id": "cactus",
+      "title": "Cactus",
+      "note": "Pixies"
+    },
+    {
+      "id": "carry-on-my-wayward-son",
+      "title": "Carry On My Wayward Son",
+      "note": "Kansas"
+    },
+    {
+      "id": "keep-the-car-running",
+      "title": "Keep The Car Running",
+      "note": "Arcade Fire"
+    },
+    {
+      "id": "lovin-touchin-squeezin",
+      "title": "Lovin' Touchin' Squeezin'",
+      "note": "Journey"
+    },
+    {
+      "id": "never-talking-to-you-again",
+      "title": "Never Talking To You Again",
+      "note": "Husker Du"
+    },
+    {
+      "id": "now-im-here",
+      "title": "Now I'm Here",
+      "note": "Queen"
+    },
+    {
+      "id": "stairway-to-heaven",
+      "title": "Stairway To Heaven",
+      "note": "Led Zeppelin"
+    },
+    {
+      "id": "tie-your-mother-down",
+      "title": "Tie Your Mother Down",
+      "note": "Queen"
+    },
+    {
+      "id": "tiny-dancer",
+      "title": "Tiny Dancer",
+      "note": "Elton John"
+    },
+    {
+      "id": "with-arms-wide-open",
+      "title": "With Arms Wide Open",
+      "note": "Creed"
+    }
+  ]
+}

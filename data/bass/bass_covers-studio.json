@@ -1,0 +1,11 @@
+{
+  "album": "covers-studio",
+  "instrument": "bass",
+  "tabs": {
+    "baker-street": "tabs_bass/misc/BakerStreet.txt",
+    "darling-nikki": "tabs_bass/misc/DarlingNikki.txt",
+    "down-in-the-park": "tabs_bass/misc/DownInThePark.txt",
+    "have-a-cigar": "tabs_bass/misc/HaveACigar.txt",
+    "sister-europe": "tabs_bass/misc/SisterEurope.txt"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "2007",
+  "title": "Echoes, Silence, Patience & Grace",
+  "kind": "studio",
+  "year": 2007,
+  "released": "2007-09-25",
+  "label": "RCA/Roswell Records",
+  "billboard": "#3",
+  "cover": "images/cover_2007.jpg",
+  "description": "\"Ballad Of The Beaconsfield Miners\" finds Grohl and guest Kaki King flexing their fingerpicking.",
+  "lyricsSheet": "lyrics/2007.txt",
+  "tracks": [
+    {
+      "id": "the-pretender",
+      "n": 1,
+      "title": "The Pretender"
+    },
+    {
+      "id": "let-it-die",
+      "n": 2,
+      "title": "Let It Die"
+    },
+    {
+      "id": "erase-replace",
+      "n": 3,
+      "title": "Erase/Replace"
+    },
+    {
+      "id": "long-road-to-ruin",
+      "n": 4,
+      "title": "Long Road To Ruin"
+    },
+    {
+      "id": "come-alive",
+      "n": 5,
+      "title": "Come Alive"
+    },
+    {
+      "id": "stranger-things-have-happened",
+      "n": 6,
+      "title": "Stranger Things Have Happened"
+    },
+    {
+      "id": "cheer-up-boys-your-make-up-is-running",
+      "n": 7,
+      "title": "Cheer Up, Boys (Your Make Up Is Running)"
+    },
+    {
+      "id": "summers-end",
+      "n": 8,
+      "title": "Summer's End"
+    },
+    {
+      "id": "ballad-of-the-beaconsfield-miners",
+      "n": 9,
+      "title": "Ballad Of The Beaconsfield Miners"
+    },
+    {
+      "id": "statues",
+      "n": 10,
+      "title": "Statues"
+    },
+    {
+      "id": "but-honestly",
+      "n": 11,
+      "title": "But, Honestly"
+    },
+    {
+      "id": "home",
+      "n": 12,
+      "title": "Home"
+    },
+    {
+      "id": "once-and-for-all",
+      "n": 13,
+      "title": "Once & For All",
+      "note": "Demo, European and Japanese edition bonus track",
+      "bonus": true
+    },
+    {
+      "id": "seda",
+      "n": 14,
+      "title": "Seda",
+      "note": "Japanese edition bonus track, also on the 01070725 EP",
+      "bonus": true
+    },
+    {
+      "id": "bangin",
+      "title": "Bangin",
+      "note": "B-side",
+      "bonus": true
+    },
+    {
+      "id": "if-ever",
+      "title": "If Ever",
+      "note": "B-side of The Pretender, also on the 01070725 EP",
+      "bonus": true
+    }
+  ]
+}

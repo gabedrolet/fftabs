@@ -1,0 +1,82 @@
+{
+  "id": "covers-studio",
+  "title": "Studio Covers",
+  "kind": "collection",
+  "tracks": [
+    {
+      "id": "baker-street",
+      "title": "Baker Street",
+      "note": "Gerry Rafferty"
+    },
+    {
+      "id": "band-on-the-run",
+      "title": "Band On The Run",
+      "note": "Wings"
+    },
+    {
+      "id": "danny-says",
+      "title": "Danny Says",
+      "note": "Ramones"
+    },
+    {
+      "id": "darling-nikki",
+      "title": "Darling Nikki",
+      "note": "Prince"
+    },
+    {
+      "id": "down-in-the-park",
+      "title": "Down In The Park",
+      "note": "Gary Numan"
+    },
+    {
+      "id": "drive-me-wild",
+      "title": "Drive Me Wild",
+      "note": "Vanity 6"
+    },
+    {
+      "id": "gas-chamber",
+      "title": "Gas Chamber",
+      "note": "Angry Samoans"
+    },
+    {
+      "id": "have-a-cigar",
+      "title": "Have A Cigar",
+      "note": "Pink Floyd"
+    },
+    {
+      "id": "im-in-love-with-a-german-film-star",
+      "title": "I'm In Love With A German Film Star",
+      "note": "Passions"
+    },
+    {
+      "id": "iron-and-stone",
+      "title": "Iron And Stone",
+      "note": "The Obsessed"
+    },
+    {
+      "id": "kiss-the-bottle",
+      "title": "Kiss The Bottle",
+      "note": "Jawbreaker"
+    },
+    {
+      "id": "life-of-illusion",
+      "title": "Life Of Illusion",
+      "note": "Joe Walsh"
+    },
+    {
+      "id": "ozone",
+      "title": "Ozone",
+      "note": "Ace Frehly"
+    },
+    {
+      "id": "requiem",
+      "title": "Requiem",
+      "note": "Killing Joke"
+    },
+    {
+      "id": "sister-europe",
+      "title": "Sister Europe",
+      "note": "The Psychedelic Furs"
+    }
+  ]
+}

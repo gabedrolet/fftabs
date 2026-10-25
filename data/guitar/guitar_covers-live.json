@@ -1,0 +1,20 @@
+{
+  "album": "covers-live",
+  "instrument": "guitar",
+  "tabs": {
+    "baby-hold-on-to-me": "tabs_guitar/misc/BabyHoldOnToMe.txt",
+    "blackbird": "tabs_guitar/misc/Blackbird.txt",
+    "born-in-the-bayou": "tabs_guitar/misc/BornInTheBayou.txt",
+    "bullet-with-butterfly-wings": "tabs_guitar/misc/BulletWithButterflyWings.txt",
+    "cactus": "tabs_guitar/misc/Cactus.txt",
+    "carry-on-my-wayward-son": "tabs_guitar/misc/CarryOnMyWaywardSon.txt",
+    "keep-the-car-running": "tabs_guitar/misc/KeepTheCarRunning.txt",
+    "lovin-touchin-squeezin": "tabs_guitar/misc/LovinTouchinSqueezin.txt",
+    "never-talking-to-you-again": "tabs_guitar/misc/NeverTalkingToYouAgain.txt",
+    "now-im-here": "tabs_guitar/misc/NowImHere.txt",
+    "stairway-to-heaven": "tabs_guitar/misc/StairwayToHeaven.txt",
+    "tie-your-mother-down": "tabs_guitar/misc/TieYourMotherDown.txt",
+    "tiny-dancer": "tabs_guitar/misc/TinyDancer.txt",
+    "with-arms-wide-open": "tabs_guitar/misc/WithArmsWideOpen.txt"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "2009",
+  "title": "Greatest Hits",
+  "kind": "compilation",
+  "year": 2009,
+  "released": "2009-11-03",
+  "label": "RCA/Roswell Records",
+  "billboard": "#11",
+  "cover": "images/cover_2009.jpg",
+  "description": "At the now historic Wembley shows, Grohl asked the crowd \"How did this band get so f***ing big?\".",
+  "tracks": [
+    {
+      "id": "all-my-life",
+      "n": 1,
+      "title": "All My Life",
+      "from": "2002"
+    },
+    {
+      "id": "best-of-you",
+      "n": 2,
+      "title": "Best Of You",
+      "from": "2005"
+    },
+    {
+      "id": "everlong",
+      "n": 3,
+      "title": "Everlong",
+      "from": "acoustic"
+    },
+    {
+      "id": "the-pretender",
+      "n": 4,
+      "title": "The Pretender",
+      "from": "2007"
+    },
+    {
+      "id": "my-hero",
+      "n": 5,
+      "title": "My Hero",
+      "from": "1997"
+    },
+    {
+      "id": "learn-to-fly",
+      "n": 6,
+      "title": "Learn To Fly",
+      "from": "1999"
+    },
+    {
+      "id": "times-like-these",
+      "n": 7,
+      "title": "Times Like These",
+      "from": "2002"
+    },
+    {
+      "id": "monkey-wrench",
+      "n": 8,
+      "title": "Monkey Wrench",
+      "from": "1997"
+    },
+    {
+      "id": "big-me",
+      "n": 9,
+      "title": "Big Me",
+      "from": "1995"
+    },
+    {
+      "id": "breakout",
+      "n": 10,
+      "title": "Breakout",
+      "from": "1999"
+    },
+    {
+      "id": "long-road-to-ruin",
+      "n": 11,
+      "title": "Long Road To Ruin",
+      "from": "2007"
+    },
+    {
+      "id": "this-is-a-call",
+      "n": 12,
+      "title": "This is a Call",
+      "from": "1995"
+    },
+    {
+      "id": "skin-and-bones",
+      "n": 13,
+      "title": "Skin and Bones",
+      "from": "2006"
+    },
+    {
+      "id": "wheels",
+      "n": 14,
+      "title": "Wheels"
+    },
+    {
+      "id": "word-forward",
+      "n": 15,
+      "title": "Word Forward"
+    }
+  ]
+}

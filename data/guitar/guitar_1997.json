@@ -1,0 +1,19 @@
+{
+  "album": "1997",
+  "instrument": "guitar",
+  "tabs": {
+    "doll": "tabs_guitar/1997/Doll.txt",
+    "monkey-wrench": "tabs_guitar/1997/MonkeyWrench.txt",
+    "hey-johnny-park": "tabs_guitar/1997/HeyJohnnyPark.txt",
+    "my-poor-brain": "tabs_guitar/1997/MyPoorBrain.txt",
+    "wind-up": "tabs_guitar/1997/WindUp.txt",
+    "up-in-arms": "tabs_guitar/1997/UpInArms.txt",
+    "my-hero": "tabs_guitar/1997/MyHero.txt",
+    "see-you": "tabs_guitar/1997/SeeYou.txt",
+    "enough-space": "tabs_guitar/1997/EnoughSpace.txt",
+    "february-stars": "tabs_guitar/1997/FebruaryStars.txt",
+    "everlong": "tabs_guitar/1997/Everlong.txt",
+    "walking-after-you": "tabs_guitar/1997/WalkingAfterYou.txt",
+    "new-way-home": "tabs_guitar/1997/NewWayHome.txt"
+  }
+}

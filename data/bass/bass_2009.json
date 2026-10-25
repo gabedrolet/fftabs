@@ -1,0 +1,21 @@
+{
+  "album": "2009",
+  "instrument": "bass",
+  "tabs": {
+    "all-my-life": "tabs_bass/2002/AllMyLife.txt",
+    "best-of-you": "tabs_bass/2005/BestOfYou.txt",
+    "everlong": "tabs_bass/1997/Everlong.txt",
+    "the-pretender": "tabs_bass/2007/ThePretender.txt",
+    "my-hero": "tabs_bass/1997/MyHero.txt",
+    "learn-to-fly": "tabs_bass/1999/LearnToFly.txt",
+    "times-like-these": "tabs_bass/2002/TimesLikeThese.txt",
+    "monkey-wrench": "tabs_bass/1997/MonkeyWrench.txt",
+    "big-me": "tabs_bass/1995/BigMe.txt",
+    "breakout": "tabs_bass/1999/Breakout.txt",
+    "long-road-to-ruin": "tabs_bass/2007/LongRoadToRuin.txt",
+    "this-is-a-call": "tabs_bass/1995/ThisIsACall.txt",
+    "skin-and-bones": "tabs_bass/misc/SkinAndBones.txt",
+    "wheels": "tabs_bass/2009/Wheels.txt",
+    "word-forward": "tabs_bass/2009/WordForward.txt"
+  }
+}

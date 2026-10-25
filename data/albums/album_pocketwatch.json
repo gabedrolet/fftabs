@@ -1,0 +1,59 @@
+{
+  "id": "pocketwatch",
+  "title": "Late! – Pocketwatch",
+  "kind": "side-project",
+  "cover": "images/cover_pocketwatch.jpg",
+  "lyricsSheet": "lyrics/pocketwatch.txt",
+  "tracks": [
+    {
+      "id": "pokey-the-little-puppy",
+      "n": 1,
+      "title": "Pokey The Little Puppy"
+    },
+    {
+      "id": "petrol-cb",
+      "n": 2,
+      "title": "Petrol CB"
+    },
+    {
+      "id": "friend-of-a-friend",
+      "n": 3,
+      "title": "Friend Of A Friend"
+    },
+    {
+      "id": "throwing-needles",
+      "n": 4,
+      "title": "Throwing Needles"
+    },
+    {
+      "id": "just-another-story-about-skeeter-thompson",
+      "n": 5,
+      "title": "Just Another Story About Skeeter Thompson"
+    },
+    {
+      "id": "marigold",
+      "n": 6,
+      "title": "Marigold"
+    },
+    {
+      "id": "hells-garden",
+      "n": 7,
+      "title": "Hell's Garden"
+    },
+    {
+      "id": "winnebago",
+      "n": 8,
+      "title": "Winnebago"
+    },
+    {
+      "id": "bruce",
+      "n": 9,
+      "title": "Bruce"
+    },
+    {
+      "id": "milk",
+      "n": 10,
+      "title": "Milk"
+    }
+  ]
+}

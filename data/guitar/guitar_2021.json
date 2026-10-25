@@ -1,0 +1,15 @@
+{
+  "album": "2021",
+  "instrument": "guitar",
+  "tabs": {
+    "making-a-fire": "tabs_guitar/2021/MakingAFire.txt",
+    "shame-shame": "tabs_guitar/2021/ShameShame.txt",
+    "cloudspotter": "tabs_guitar/2021/Cloudspotter.txt",
+    "waiting-on-a-war": "tabs_guitar/2021/WaitingOnAWar.txt",
+    "medicine-at-midnight": "tabs_guitar/2021/MedicineAtMidnight.txt",
+    "no-son-of-mine": "tabs_guitar/2021/NoSonOfMine.txt",
+    "holding-poison": "tabs_guitar/2021/HoldingPoison.txt",
+    "chasing-birds": "tabs_guitar/2021/ChasingBirds.txt",
+    "love-dies-young": "tabs_guitar/2021/LoveDiesYoung.txt"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "album": "jackson-united",
+  "instrument": "guitar",
+  "tabs": {
+    "a-better-life": "tabs_guitar/jacksonunited/ABetterLife.txt",
+    "all-the-way": "tabs_guitar/jacksonunited/AllTheWay.txt",
+    "blinders": "tabs_guitar/jacksonunited/Blinders.txt",
+    "damn-you": "tabs_guitar/jacksonunited/DamnYou.txt",
+    "down-to-you": "tabs_guitar/jacksonunited/DownToYou.txt",
+    "far-from-here": "tabs_guitar/jacksonunited/FarFromHere.txt",
+    "fell-into": "tabs_guitar/jacksonunited/FellInto.txt",
+    "helsinki": "tabs_guitar/jacksonunited/Helsinki.txt",
+    "here-comes-hollow": "tabs_guitar/jacksonunited/HereComesHollow.txt",
+    "lions-roar": "tabs_guitar/jacksonunited/LionsRoar.txt",
+    "shes-giving-in": "tabs_guitar/jacksonunited/ShesGivingIn.txt",
+    "unchanged": "tabs_guitar/jacksonunited/Unchanged.txt",
+    "pure": "tabs_guitar/jacksonunited/Pure.txt"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "album": "pocketwatch",
+  "instrument": "guitar",
+  "tabs": {
+    "pokey-the-little-puppy": "tabs_guitar/pocketwatch/PokeyTheLittlePuppy.txt",
+    "petrol-cb": "tabs_guitar/pocketwatch/PetrolCB.txt",
+    "friend-of-a-friend": "tabs_guitar/pocketwatch/FriendOfAFriend.txt",
+    "throwing-needles": "tabs_guitar/pocketwatch/ThrowingNeedles.txt",
+    "just-another-story-about-skeeter-thompson": "tabs_guitar/pocketwatch/JustAnotherStoryAboutSkeeter.txt",
+    "marigold": "tabs_guitar/pocketwatch/Marigold.txt",
+    "hells-garden": "tabs_guitar/pocketwatch/HellsGarden.txt",
+    "winnebago": "tabs_guitar/pocketwatch/Winnebago.txt",
+    "bruce": "tabs_guitar/pocketwatch/Bruce.txt",
+    "milk": "tabs_guitar/pocketwatch/Milk.txt"
+  }
+}

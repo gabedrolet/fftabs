@@ -1,0 +1,74 @@
+{
+  "id": "1995",
+  "title": "Foo Fighters",
+  "kind": "studio",
+  "year": 1995,
+  "released": "1995-07-04",
+  "label": "Capitol/Roswell Records",
+  "billboard": "#23",
+  "cover": "images/cover_1995.jpg",
+  "description": "Recorded by Barrett Jones at the Laundry Room studios in Seattle, WA. Dave Grohl plays all the instruments except for 1 guitar part on X-static played by Greg Dulli from the Afghan Whigs",
+  "lyricsSheet": "lyrics/1995.txt",
+  "tracks": [
+    {
+      "id": "this-is-a-call",
+      "n": 1,
+      "title": "This Is A Call"
+    },
+    {
+      "id": "ill-stick-around",
+      "n": 2,
+      "title": "I'll Stick Around"
+    },
+    {
+      "id": "big-me",
+      "n": 3,
+      "title": "Big Me"
+    },
+    {
+      "id": "alone-easy-target",
+      "n": 4,
+      "title": "Alone + Easy Target"
+    },
+    {
+      "id": "good-grief",
+      "n": 5,
+      "title": "Good Grief"
+    },
+    {
+      "id": "floaty",
+      "n": 6,
+      "title": "Floaty"
+    },
+    {
+      "id": "weenie-beenie",
+      "n": 7,
+      "title": "Weenie Beenie"
+    },
+    {
+      "id": "oh-george",
+      "n": 8,
+      "title": "Oh, George"
+    },
+    {
+      "id": "for-all-the-cows",
+      "n": 9,
+      "title": "For All The Cows"
+    },
+    {
+      "id": "x-static",
+      "n": 10,
+      "title": "X-Static"
+    },
+    {
+      "id": "wattershed",
+      "n": 11,
+      "title": "Wattershed"
+    },
+    {
+      "id": "exhausted",
+      "n": 12,
+      "title": "Exhausted"
+    }
+  ]
+}

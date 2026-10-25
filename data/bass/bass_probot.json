@@ -1,0 +1,18 @@
+{
+  "album": "probot",
+  "instrument": "bass",
+  "tabs": {
+    "centuries-of-sin": "tabs_bass/probot/CenturiesOfSin.txt",
+    "red-war": "tabs_bass/probot/RedWar.txt",
+    "shake-your-blood": "tabs_bass/probot/ShakeYourBlood.txt",
+    "access-babylon": "tabs_bass/probot/AccessBabylon.txt",
+    "silent-spring": "tabs_bass/probot/SilentSpring.txt",
+    "ice-cold-man": "tabs_bass/probot/IceColdMan.txt",
+    "the-emerald-law": "tabs_bass/probot/TheEmeraldLaw.txt",
+    "big-sky": "tabs_bass/probot/BigSky.txt",
+    "dictatorsaurus": "tabs_bass/probot/Dictatorsaurus.txt",
+    "my-tortured-soul": "tabs_bass/probot/MyTorturedSoul.txt",
+    "sweet-dreams": "tabs_bass/probot/SweetDreams.txt",
+    "i-am-the-warlock": "tabs_bass/probot/IAmTheWarlock.txt"
+  }
+}

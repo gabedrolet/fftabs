@@ -1,0 +1,17 @@
+{
+  "album": "1999",
+  "instrument": "drums",
+  "tabs": {
+    "stacked-actors": "tabs_drums/1999/StackedActors.txt",
+    "breakout": "tabs_drums/1999/Breakout.txt",
+    "learn-to-fly": [
+      "tabs_drums/1999/LearnToFly.txt",
+      "tabs_drums/1999/LearnToFly.pdf"
+    ],
+    "gimme-stitches": "tabs_drums/1999/GimmeStitches.txt",
+    "generator": "tabs_drums/1999/Generator.txt",
+    "aurora": "tabs_drums/1999/Aurora.txt",
+    "next-year": "tabs_drums/1999/NextYear.txt",
+    "aint-it-the-life": "tabs_drums/1999/AintItTheLife.txt"
+  }
+}

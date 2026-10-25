@@ -1,0 +1,34 @@
+{
+  // F5 in VS Code: starts the Vite server, opens the browser with the debugger attached,
+  // and stops the server when you stop debugging.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Dev (Edge)",
+      "type": "msedge",
+      "request": "launch",
+      "url": "http://localhost:5173",
+      "webRoot": "${workspaceFolder}",
+      "preLaunchTask": "vite: dev",
+      "postDebugTask": "stop servers"
+    },
+    {
+      "name": "Dev (Chrome)",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://localhost:5173",
+      "webRoot": "${workspaceFolder}",
+      "preLaunchTask": "vite: dev",
+      "postDebugTask": "stop servers"
+    },
+    {
+      "name": "Preview production build (Edge)",
+      "type": "msedge",
+      "request": "launch",
+      "url": "http://localhost:4173",
+      "webRoot": "${workspaceFolder}",
+      "preLaunchTask": "vite: preview",
+      "postDebugTask": "stop servers"
+    }
+  ]
+}

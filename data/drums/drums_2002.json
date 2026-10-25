@@ -1,0 +1,13 @@
+{
+  "album": "2002",
+  "instrument": "drums",
+  "tabs": {
+    "all-my-life": "tabs_drums/2002/AllMyLife.txt",
+    "low": "tabs_drums/2002/Low.txt",
+    "have-it-all": "tabs_drums/2002/HaveItAll.txt",
+    "times-like-these": "tabs_drums/2002/TimesLikeThese.txt",
+    "halo": "tabs_drums/2002/Halo.txt",
+    "overdrive": "tabs_drums/2002/Overdrive.txt",
+    "come-back": "tabs_drums/2002/ComeBack.txt"
+  }
+}

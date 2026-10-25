@@ -1,0 +1,12 @@
+{
+  "album": "soundtracks",
+  "instrument": "guitar",
+  "tabs": {
+    "a320": "tabs_guitar/misc/A320.txt",
+    "dear-lover": "tabs_guitar/misc/DearLover.txt",
+    "the-one": "tabs_guitar/misc/TheOne.txt",
+    "touch": "tabs_guitar/misc/Touch.txt",
+    "how-do-you-do": "tabs_guitar/misc/HowDoYouDo.txt",
+    "win-or-lose": "tabs_guitar/misc/WinOrLose.txt"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "album": "bsides",
+  "instrument": "guitar",
+  "tabs": {
+    "butterflies": "tabs_guitar/misc/Butterflies.txt",
+    "damn-you-damn-everyone": "tabs_guitar/misc/DamnYouDamnEveryone.txt",
+    "ffl": "tabs_guitar/misc/FFL.txt",
+    "fraternity": "tabs_guitar/misc/Fraternity.txt",
+    "gods-look-down": "tabs_guitar/misc/GodsLookDown.txt",
+    "goodbye-lament": "tabs_guitar/misc/GoodbyeLament.txt",
+    "gun-beside-my-bed": "tabs_guitar/misc/GunBesideMyBed.txt",
+    "how-i-miss-you": "tabs_guitar/misc/HowIMissYou.txt",
+    "im-alone-again": "tabs_guitar/misc/ImAloneAgain.txt",
+    "its-all-about-the-benjamins": "tabs_guitar/misc/ItsAllAboutTheBenjamins.txt",
+    "make-a-bet": "tabs_guitar/misc/MakeABet.txt",
+    "mountain-of-you": "tabs_guitar/misc/MountainOfYou.txt",
+    "normal": "tabs_guitar/misc/Normal.txt",
+    "podunk": "tabs_guitar/misc/Podunk.txt",
+    "skin-and-bones": "tabs_guitar/misc/SkinAndBones.txt",
+    "spill": "tabs_guitar/misc/Spill.txt",
+    "the-colour-and-the-shape": "tabs_guitar/misc/TheColourTheShape.txt",
+    "tighter-and-tighter": "tabs_guitar/misc/TighterAndTighter.txt",
+    "walking-a-line-ver-1": "tabs_guitar/misc/WalkingALine.txt",
+    "walking-a-line-ver-2": "tabs_guitar/misc/WalkingALine2.txt",
+    "wheels": "tabs_guitar/2009/Wheels.txt",
+    "world-ver-1": "tabs_guitar/misc/World.txt",
+    "world-ver-2": "tabs_guitar/misc/World2.txt",
+    "rain": "tabs_guitar/scream/Rain.txt"
+  }
+}

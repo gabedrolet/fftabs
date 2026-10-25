@@ -1,0 +1,19 @@
+{
+  "album": "1997",
+  "instrument": "lyrics",
+  "lyrics": {
+    "doll": "lyrics/1997/Doll.txt",
+    "monkey-wrench": "lyrics/1997/MonkeyWrench.txt",
+    "hey-johnny-park": "lyrics/1997/HeyJohnnyPark.txt",
+    "my-poor-brain": "lyrics/1997/MyPoorBrain.txt",
+    "wind-up": "lyrics/1997/WindUp.txt",
+    "up-in-arms": "lyrics/1997/UpInArms.txt",
+    "my-hero": "lyrics/1997/MyHero.txt",
+    "see-you": "lyrics/1997/SeeYou.txt",
+    "enough-space": "lyrics/1997/EnoughSpace.txt",
+    "february-stars": "lyrics/1997/FebruaryStars.txt",
+    "everlong": "lyrics/1997/Everlong.txt",
+    "walking-after-you": "lyrics/1997/WalkingAfterYou.txt",
+    "new-way-home": "lyrics/1997/NewWayHome.txt"
+  }
+}

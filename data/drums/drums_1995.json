@@ -1,0 +1,20 @@
+{
+  "album": "1995",
+  "instrument": "drums",
+  "tabs": {
+    "this-is-a-call": [
+      "tabs_drums/1995/ThisIsACall.txt",
+      "tabs_drums/1995/ThisIsACall.pdf"
+    ],
+    "ill-stick-around": "tabs_drums/1995/IllStickAround.txt",
+    "big-me": "tabs_drums/1995/BigMe.txt",
+    "alone-easy-target": "tabs_drums/1995/AloneEasyTarget.txt",
+    "good-grief": "tabs_drums/1995/GoodGrief.txt",
+    "weenie-beenie": "tabs_drums/1995/WeenieBeenie.txt",
+    "oh-george": "tabs_drums/1995/OhGeorge.txt",
+    "for-all-the-cows": "tabs_drums/1995/ForAllTheCows.txt",
+    "x-static": "tabs_drums/1995/XStatic.txt",
+    "wattershed": "tabs_drums/1995/Wattershed.txt",
+    "exhausted": "tabs_drums/1995/Exhausted.txt"
+  }
+}

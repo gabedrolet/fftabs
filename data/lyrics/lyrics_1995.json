@@ -1,0 +1,18 @@
+{
+  "album": "1995",
+  "instrument": "lyrics",
+  "lyrics": {
+    "this-is-a-call": "lyrics/1995/ThisIsACall.txt",
+    "ill-stick-around": "lyrics/1995/IllStickAround.txt",
+    "big-me": "lyrics/1995/BigMe.txt",
+    "alone-easy-target": "lyrics/1995/AloneEasyTarget.txt",
+    "good-grief": "lyrics/1995/GoodGrief.txt",
+    "floaty": "lyrics/1995/Floaty.txt",
+    "weenie-beenie": "lyrics/1995/WeenieBeenie.txt",
+    "oh-george": "lyrics/1995/OhGeorge.txt",
+    "for-all-the-cows": "lyrics/1995/ForAllTheCows.txt",
+    "x-static": "lyrics/1995/XStatic.txt",
+    "wattershed": "lyrics/1995/Wattershed.txt",
+    "exhausted": "lyrics/1995/Exhausted.txt"
+  }
+}

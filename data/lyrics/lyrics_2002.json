@@ -1,0 +1,17 @@
+{
+  "album": "2002",
+  "instrument": "lyrics",
+  "lyrics": {
+    "all-my-life": "lyrics/2002/AllMyLife.txt",
+    "low": "lyrics/2002/Low.txt",
+    "have-it-all": "lyrics/2002/HaveItAll.txt",
+    "times-like-these": "lyrics/2002/TimesLikeThese.txt",
+    "disenchanted-lullaby": "lyrics/2002/DisenchantedLullaby.txt",
+    "tired-of-you": "lyrics/2002/TiredOfYou.txt",
+    "halo": "lyrics/2002/Halo.txt",
+    "lonely-as-you": "lyrics/2002/LonelyAsYou.txt",
+    "overdrive": "lyrics/2002/Overdrive.txt",
+    "burn-away": "lyrics/2002/BurnAway.txt",
+    "come-back": "lyrics/2002/ComeBack.txt"
+  }
+}

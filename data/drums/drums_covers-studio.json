@@ -1,0 +1,9 @@
+{
+  "album": "covers-studio",
+  "instrument": "drums",
+  "tabs": {
+    "baker-street": "tabs_drums/misc/BakerStreet.txt",
+    "down-in-the-park": "tabs_drums/misc/DownInThePark.txt",
+    "have-a-cigar": "tabs_drums/misc/HaveACigar.txt"
+  }
+}

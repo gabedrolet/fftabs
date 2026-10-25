@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+Thumbs.db
+
+# one-time migration scripts from the old PHP site (kept locally, not committed)
+migration/
+
+# previews saved by the Claude app
+Claude outputs/

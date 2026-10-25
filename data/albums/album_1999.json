@@ -1,0 +1,69 @@
+{
+  "id": "1999",
+  "title": "There Is Nothing Left To Lose",
+  "kind": "studio",
+  "year": 1999,
+  "released": "1999-11-02",
+  "label": "RCA/Roswell Records",
+  "billboard": "#10",
+  "cover": "images/cover_1999.jpg",
+  "description": "Recorded at Studio 606 in Virginia, Spring 1999. Dave Grohl on vocals, guitars, drums; Nate Mendel plays bass and Taylor Hawkins plays drums. Produced by Adam Kasper.",
+  "lyricsSheet": "lyrics/1999.txt",
+  "tracks": [
+    {
+      "id": "stacked-actors",
+      "n": 1,
+      "title": "Stacked Actors"
+    },
+    {
+      "id": "breakout",
+      "n": 2,
+      "title": "Breakout"
+    },
+    {
+      "id": "learn-to-fly",
+      "n": 3,
+      "title": "Learn To Fly"
+    },
+    {
+      "id": "gimme-stitches",
+      "n": 4,
+      "title": "Gimme Stitches"
+    },
+    {
+      "id": "generator",
+      "n": 5,
+      "title": "Generator"
+    },
+    {
+      "id": "aurora",
+      "n": 6,
+      "title": "Aurora"
+    },
+    {
+      "id": "live-in-skin",
+      "n": 7,
+      "title": "Live-In Skin"
+    },
+    {
+      "id": "next-year",
+      "n": 8,
+      "title": "Next Year"
+    },
+    {
+      "id": "headwires",
+      "n": 9,
+      "title": "Headwires"
+    },
+    {
+      "id": "aint-it-the-life",
+      "n": 10,
+      "title": "Ain't It The Life"
+    },
+    {
+      "id": "m-i-a",
+      "n": 11,
+      "title": "M.I.A"
+    }
+  ]
+}

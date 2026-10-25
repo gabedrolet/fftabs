@@ -1,0 +1,8 @@
+{
+  "album": "pocketwatch",
+  "instrument": "bass",
+  "tabs": {
+    "pokey-the-little-puppy": "tabs_bass/misc/PokeyTheLittlePuppy.txt",
+    "hells-garden": "tabs_bass/misc/HellsGarden.txt"
+  }
+}

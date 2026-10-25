@@ -1,0 +1,81 @@
+{
+  "id": "probot",
+  "title": "Probot",
+  "kind": "side-project",
+  "cover": "images/cover_probot.jpg",
+  "lyricsSheet": "lyrics/probot.txt",
+  "tracks": [
+    {
+      "id": "centuries-of-sin",
+      "n": 1,
+      "title": "Centuries Of Sin",
+      "note": "w/ Cronos / Venom"
+    },
+    {
+      "id": "red-war",
+      "n": 2,
+      "title": "Red War",
+      "note": "w/ Max Cavalera / Soulfly, Sepultura"
+    },
+    {
+      "id": "shake-your-blood",
+      "n": 3,
+      "title": "Shake Your Blood",
+      "note": "w/ Lemmy / Motörhead"
+    },
+    {
+      "id": "access-babylon",
+      "n": 4,
+      "title": "Access Babylon",
+      "note": "w/ Mike Dean / C.O.C."
+    },
+    {
+      "id": "silent-spring",
+      "n": 5,
+      "title": "Silent Spring",
+      "note": "w/ Kurt Brecht / D.R.I."
+    },
+    {
+      "id": "ice-cold-man",
+      "n": 6,
+      "title": "Ice Cold Man",
+      "note": "w/ Lee Dorrian / Cathedral / Napalm Death"
+    },
+    {
+      "id": "the-emerald-law",
+      "n": 7,
+      "title": "The Emerald Law",
+      "note": "w/ Wino / Place Of Skulls / The Obsessed"
+    },
+    {
+      "id": "big-sky",
+      "n": 8,
+      "title": "Big Sky",
+      "note": "w/ Tom G. Warrior / Celtic Frost"
+    },
+    {
+      "id": "dictatorsaurus",
+      "n": 9,
+      "title": "Dictatorsaurus",
+      "note": "w/ Snake / Voïvod"
+    },
+    {
+      "id": "my-tortured-soul",
+      "n": 10,
+      "title": "My Tortured Soul",
+      "note": "w/ Eric Wagner / Trouble"
+    },
+    {
+      "id": "sweet-dreams",
+      "n": 11,
+      "title": "Sweet Dreams",
+      "note": "w/ King Diamond / Mercyful Fate"
+    },
+    {
+      "id": "i-am-the-warlock",
+      "n": 12,
+      "title": "I Am The Warlock",
+      "note": "w/ Jack Black / Tenacious D"
+    }
+  ]
+}

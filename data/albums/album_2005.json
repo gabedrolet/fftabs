@@ -1,0 +1,154 @@
+{
+  "id": "2005",
+  "title": "In Your Honor",
+  "kind": "studio",
+  "year": 2005,
+  "released": "2005-06-14",
+  "label": "RCA/Roswell Records",
+  "billboard": "#2",
+  "cover": "images/cover_2005.jpg",
+  "description": "This album features 2 discs, one rock and one acoustic.\n Some versions have the bonus track The Sign or a bonus DVD. Producer Nick Raskulineez.",
+  "lyricsSheet": "lyrics/2005.txt",
+  "tracks": [
+    {
+      "id": "in-your-honor",
+      "disc": 1,
+      "n": 1,
+      "title": "In Your Honor"
+    },
+    {
+      "id": "no-way-back",
+      "disc": 1,
+      "n": 2,
+      "title": "No Way Back"
+    },
+    {
+      "id": "best-of-you",
+      "disc": 1,
+      "n": 3,
+      "title": "Best Of You"
+    },
+    {
+      "id": "doa",
+      "disc": 1,
+      "n": 4,
+      "title": "DOA"
+    },
+    {
+      "id": "hell",
+      "disc": 1,
+      "n": 5,
+      "title": "Hell"
+    },
+    {
+      "id": "the-last-song",
+      "disc": 1,
+      "n": 6,
+      "title": "The Last Song"
+    },
+    {
+      "id": "free-me",
+      "disc": 1,
+      "n": 7,
+      "title": "Free Me"
+    },
+    {
+      "id": "resolve",
+      "disc": 1,
+      "n": 8,
+      "title": "Resolve"
+    },
+    {
+      "id": "the-deepest-blues-are-black",
+      "disc": 1,
+      "n": 9,
+      "title": "The Deepest Blues Are Black"
+    },
+    {
+      "id": "end-over-end",
+      "disc": 1,
+      "n": 10,
+      "title": "End Over End"
+    },
+    {
+      "id": "the-sign",
+      "disc": 1,
+      "n": 11,
+      "title": "The Sign",
+      "note": "UK, Japan, vinyl and iTunes bonus track, also on the 01050525 EP",
+      "bonus": true
+    },
+    {
+      "id": "still",
+      "disc": 2,
+      "n": 1,
+      "title": "Still"
+    },
+    {
+      "id": "what-if-i-do",
+      "disc": 2,
+      "n": 2,
+      "title": "What If I Do?"
+    },
+    {
+      "id": "miracle",
+      "disc": 2,
+      "n": 3,
+      "title": "Miracle"
+    },
+    {
+      "id": "another-round",
+      "disc": 2,
+      "n": 4,
+      "title": "Another Round"
+    },
+    {
+      "id": "friend-of-a-friend",
+      "disc": 2,
+      "n": 5,
+      "title": "Friend Of A Friend"
+    },
+    {
+      "id": "over-n-out",
+      "disc": 2,
+      "n": 6,
+      "title": "Over 'N Out"
+    },
+    {
+      "id": "on-the-mend",
+      "disc": 2,
+      "n": 7,
+      "title": "On The Mend"
+    },
+    {
+      "id": "virginia-moon",
+      "disc": 2,
+      "n": 8,
+      "title": "Virginia Moon"
+    },
+    {
+      "id": "cold-day-in-the-sun",
+      "disc": 2,
+      "n": 9,
+      "title": "Cold Day In The Sun"
+    },
+    {
+      "id": "razor",
+      "disc": 2,
+      "n": 10,
+      "title": "Razor"
+    },
+    {
+      "id": "ffl",
+      "title": "FFL",
+      "bonus": true,
+      "note": "B-side of Best Of You (UK CD2), also on the 01050525 EP"
+    },
+    {
+      "id": "spill",
+      "title": "Spill",
+      "bonus": true,
+      "note": "B-side of Best Of You (7\" single), also on the 01050525 EP"
+    }
+  ]
+}

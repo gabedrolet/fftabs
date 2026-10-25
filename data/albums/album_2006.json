@@ -1,0 +1,84 @@
+{
+  "id": "2006",
+  "title": "Skin And Bones",
+  "kind": "live",
+  "year": 2006,
+  "cover": "images/cover_sb.jpg",
+  "tracks": [
+    {
+      "id": "razor",
+      "n": 1,
+      "title": "Razor"
+    },
+    {
+      "id": "over-and-out",
+      "n": 2,
+      "title": "Over And Out"
+    },
+    {
+      "id": "walking-after-you",
+      "n": 3,
+      "title": "Walking After You"
+    },
+    {
+      "id": "marigold",
+      "n": 4,
+      "title": "Marigold"
+    },
+    {
+      "id": "my-hero",
+      "n": 5,
+      "title": "My Hero"
+    },
+    {
+      "id": "next-year",
+      "n": 6,
+      "title": "Next Year"
+    },
+    {
+      "id": "another-round",
+      "n": 7,
+      "title": "Another Round"
+    },
+    {
+      "id": "big-me",
+      "n": 8,
+      "title": "Big Me"
+    },
+    {
+      "id": "cold-day-in-the-sun",
+      "n": 9,
+      "title": "Cold Day In The Sun"
+    },
+    {
+      "id": "skin-and-bones",
+      "n": 10,
+      "title": "Skin And Bones"
+    },
+    {
+      "id": "february-stars",
+      "n": 11,
+      "title": "February Stars"
+    },
+    {
+      "id": "times-like-these",
+      "n": 12,
+      "title": "Times Like These"
+    },
+    {
+      "id": "friend-of-a-friend",
+      "n": 13,
+      "title": "Friend Of A Friend"
+    },
+    {
+      "id": "best-of-you",
+      "n": 14,
+      "title": "Best Of You"
+    },
+    {
+      "id": "everlong",
+      "n": 15,
+      "title": "Everlong"
+    }
+  ]
+}

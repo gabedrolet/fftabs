@@ -1,0 +1,12 @@
+{
+  "album": "2005",
+  "instrument": "drums",
+  "tabs": {
+    "in-your-honor": "tabs_drums/2005/InYourHonor.txt",
+    "best-of-you": "tabs_drums/2005/BestOfYou.txt",
+    "doa": "tabs_drums/2005/DOA.txt",
+    "hell": "tabs_drums/2005/Hell.txt",
+    "the-last-song": "tabs_drums/2005/TheLastSong.txt",
+    "miracle": "tabs_drums/2005/Miracle.txt"
+  }
+}

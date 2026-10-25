@@ -1,0 +1,20 @@
+{
+  "album": "2007",
+  "instrument": "lyrics",
+  "lyrics": {
+    "the-pretender": "lyrics/2007/ThePretender.txt",
+    "let-it-die": "lyrics/2007/LetItDie.txt",
+    "erase-replace": "lyrics/2007/EraseReplace.txt",
+    "long-road-to-ruin": "lyrics/2007/LongRoadToRuin.txt",
+    "come-alive": "lyrics/2007/ComeAlive.txt",
+    "stranger-things-have-happened": "lyrics/2007/StrangerThingsHaveHappened.txt",
+    "cheer-up-boys-your-make-up-is-running": "lyrics/2007/CheerUpBoysYourMakeUpIsRunning.txt",
+    "summers-end": "lyrics/2007/SummersEnd.txt",
+    "ballad-of-the-beaconsfield-miners": "lyrics/2007/BalladOfTheBeaconsfieldMiners.txt",
+    "statues": "lyrics/2007/Statues.txt",
+    "but-honestly": "lyrics/2007/ButHonestly.txt",
+    "once-and-for-all": "lyrics/2007/OnceAndForAll.txt",
+    "seda": "lyrics/2007/SEDA.txt",
+    "home": "lyrics/2007/Home.txt"
+  }
+}

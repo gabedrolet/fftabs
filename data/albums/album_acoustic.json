@@ -1,0 +1,77 @@
+{
+  "id": "acoustic",
+  "title": "Acoustic / Alternate Versions",
+  "kind": "collection",
+  "tracks": [
+    {
+      "id": "a320",
+      "title": "A320",
+      "note": "Acoustic"
+    },
+    {
+      "id": "aurora-acoustic",
+      "title": "Aurora",
+      "note": "Acoustic"
+    },
+    {
+      "id": "aurora-live",
+      "title": "Aurora",
+      "note": "Live"
+    },
+    {
+      "id": "aint-it-the-life",
+      "title": "Ain't It The Life",
+      "note": "Artist Direct"
+    },
+    {
+      "id": "breakout",
+      "title": "Breakout",
+      "note": "Artist Direct"
+    },
+    {
+      "id": "come-back",
+      "title": "Come Back",
+      "note": "Live"
+    },
+    {
+      "id": "disenchanted-lullaby",
+      "title": "Disenchanted Lullaby",
+      "note": "Acoustic"
+    },
+    {
+      "id": "everlong",
+      "title": "Everlong",
+      "note": "Acoustic"
+    },
+    {
+      "id": "learn-to-fly-acoustic",
+      "title": "Learn To Fly",
+      "note": "Acoustic"
+    },
+    {
+      "id": "my-hero-live-craig-kilborn-version",
+      "title": "My Hero",
+      "note": "Live @ Craig Kilborn version"
+    },
+    {
+      "id": "my-hero-common-acoustic-version",
+      "title": "My Hero",
+      "note": "Common Acoustic version"
+    },
+    {
+      "id": "times-like-these",
+      "title": "Times Like These",
+      "note": "Acoustic Release"
+    },
+    {
+      "id": "razor-of-mine",
+      "title": "Razor Of Mine",
+      "note": "Live @ Tsunami Relief Benefit"
+    },
+    {
+      "id": "learn-to-fly-live",
+      "title": "Learn To Fly",
+      "note": "Live"
+    }
+  ]
+}

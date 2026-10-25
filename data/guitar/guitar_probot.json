@@ -1,0 +1,18 @@
+{
+  "album": "probot",
+  "instrument": "guitar",
+  "tabs": {
+    "centuries-of-sin": "tabs_guitar/probot/CenturiesOfSin.txt",
+    "red-war": "tabs_guitar/probot/RedWar.txt",
+    "shake-your-blood": "tabs_guitar/probot/ShakeYourBlood.txt",
+    "access-babylon": "tabs_guitar/probot/AccessBabylon.txt",
+    "silent-spring": "tabs_guitar/probot/SilentSpring.txt",
+    "ice-cold-man": "tabs_guitar/probot/IceColdMan.txt",
+    "the-emerald-law": "tabs_guitar/probot/TheEmeraldLaw.txt",
+    "big-sky": "tabs_guitar/probot/BigSky.txt",
+    "dictatorsaurus": "tabs_guitar/probot/Dictatorsaurus.txt",
+    "my-tortured-soul": "tabs_guitar/probot/MyTorturedSoul.txt",
+    "sweet-dreams": "tabs_guitar/probot/SweetDreams.txt",
+    "i-am-the-warlock": "tabs_guitar/probot/IAmTheWarlock.txt"
+  }
+}

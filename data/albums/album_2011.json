@@ -1,0 +1,76 @@
+{
+  "id": "2011",
+  "title": "Wasting Light",
+  "kind": "studio",
+  "year": 2011,
+  "released": "2011-04-12",
+  "label": "RCA/Roswell Records",
+  "billboard": "#1",
+  "cover": "images/cover_2011.jpg",
+  "description": "Former bandmate of Dave Grohl and Pat Smear Krist Novoselic recorded bass and accordion on the song \"I Should Have Known\".",
+  "lyricsSheet": "lyrics/2011.txt",
+  "tracks": [
+    {
+      "id": "bridge-burning",
+      "n": 1,
+      "title": "Bridge Burning"
+    },
+    {
+      "id": "rope",
+      "n": 2,
+      "title": "Rope"
+    },
+    {
+      "id": "dear-rosemary",
+      "n": 3,
+      "title": "Dear Rosemary"
+    },
+    {
+      "id": "white-limo",
+      "n": 4,
+      "title": "White Limo"
+    },
+    {
+      "id": "arlandria",
+      "n": 5,
+      "title": "Arlandria"
+    },
+    {
+      "id": "these-days",
+      "n": 6,
+      "title": "These Days"
+    },
+    {
+      "id": "back-and-forth",
+      "n": 7,
+      "title": "Back & Forth"
+    },
+    {
+      "id": "a-matter-of-time",
+      "n": 8,
+      "title": "A Matter of Time"
+    },
+    {
+      "id": "miss-the-misery",
+      "n": 9,
+      "title": "Miss The Misery"
+    },
+    {
+      "id": "i-should-have-known",
+      "n": 10,
+      "title": "I Should Have Known"
+    },
+    {
+      "id": "walk",
+      "n": 11,
+      "title": "Walk"
+    },
+    {
+      "id": "better-off",
+      "n": 12,
+      "title": "Better Off",
+      "note": "Japanese edition bonus track",
+      "bonus": true
+    }
+  ]
+}

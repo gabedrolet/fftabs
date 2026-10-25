@@ -1,0 +1,15 @@
+{
+  "album": "2021",
+  "instrument": "lyrics",
+  "lyrics": {
+    "making-a-fire": "lyrics/2021/MakingAFire.txt",
+    "shame-shame": "lyrics/2021/ShameShame.txt",
+    "cloudspotter": "lyrics/2021/Cloudspotter.txt",
+    "waiting-on-a-war": "lyrics/2021/WaitingOnAWar.txt",
+    "medicine-at-midnight": "lyrics/2021/MedicineAtMidnight.txt",
+    "no-son-of-mine": "lyrics/2021/NoSonOfMine.txt",
+    "holding-poison": "lyrics/2021/HoldingPoison.txt",
+    "chasing-birds": "lyrics/2021/ChasingBirds.txt",
+    "love-dies-young": "lyrics/2021/LoveDiesYoung.txt"
+  }
+}

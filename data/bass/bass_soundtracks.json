@@ -1,0 +1,9 @@
+{
+  "album": "soundtracks",
+  "instrument": "bass",
+  "tabs": {
+    "a320": "tabs_bass/misc/A320.txt",
+    "dear-lover": "tabs_bass/misc/DearLover.txt",
+    "the-one": "tabs_bass/misc/TheOne.txt"
+  }
+}

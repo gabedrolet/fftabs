@@ -1,0 +1,18 @@
+{
+  "album": "2009",
+  "instrument": "drums",
+  "tabs": {
+    "all-my-life": "tabs_drums/2002/AllMyLife.txt",
+    "best-of-you": "tabs_drums/2005/BestOfYou.txt",
+    "everlong": "tabs_drums/1997/Everlong.txt",
+    "the-pretender": "tabs_drums/2007/ThePretender.txt",
+    "my-hero": "tabs_drums/1997/MyHero.txt",
+    "learn-to-fly": "tabs_drums/1999/LearnToFly.txt",
+    "times-like-these": "tabs_drums/2002/TimesLikeThese.txt",
+    "monkey-wrench": "tabs_drums/1997/MonkeyWrench.txt",
+    "big-me": "tabs_drums/1995/BigMe.txt",
+    "breakout": "tabs_drums/1999/Breakout.txt",
+    "this-is-a-call": "tabs_drums/1995/ThisIsACall.txt",
+    "wheels": "tabs_drums/2009/Wheels.txt"
+  }
+}

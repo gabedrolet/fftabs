@@ -1,0 +1,13 @@
+{
+  "album": "2011",
+  "instrument": "drums",
+  "tabs": {
+    "rope": "tabs_drums/2011/Rope.txt",
+    "arlandria": "tabs_drums/2011/Arlandria.txt",
+    "these-days": "tabs_drums/2011/TheseDays.txt",
+    "a-matter-of-time": "tabs_drums/2011/AMatterOfTime.txt",
+    "miss-the-misery": "tabs_drums/2011/MissTheMisery.txt",
+    "i-should-have-known": "tabs_drums/2011/IShouldHaveKnown.txt",
+    "walk": "tabs_drums/2011/Walk.txt"
+  }
+}

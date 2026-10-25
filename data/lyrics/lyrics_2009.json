@@ -1,0 +1,17 @@
+{
+  "album": "2009",
+  "instrument": "lyrics",
+  "lyrics": {
+    "all-my-life": "lyrics/2002/AllMyLife.txt",
+    "best-of-you": "lyrics/2005/BestOfYou.txt",
+    "the-pretender": "lyrics/2007/ThePretender.txt",
+    "my-hero": "lyrics/1997/MyHero.txt",
+    "learn-to-fly": "lyrics/1999/LearnToFly.txt",
+    "times-like-these": "lyrics/2002/TimesLikeThese.txt",
+    "monkey-wrench": "lyrics/1997/MonkeyWrench.txt",
+    "big-me": "lyrics/1995/BigMe.txt",
+    "breakout": "lyrics/1999/Breakout.txt",
+    "long-road-to-ruin": "lyrics/2007/LongRoadToRuin.txt",
+    "this-is-a-call": "lyrics/1995/ThisIsACall.txt"
+  }
+}

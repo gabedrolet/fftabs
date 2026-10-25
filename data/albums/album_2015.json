@@ -1,0 +1,38 @@
+{
+  "id": "2015",
+  "title": "Saint Cecilia (EP)",
+  "kind": "studio",
+  "year": 2015,
+  "released": "2015-11-23",
+  "label": "RCA/Roswell Records",
+  "cover": "images/cover_2015.jpg",
+  "description": "Initially intended as a sign of gratitude to the group's fans,\nthe EP was also dedicated to the victims of the terrorist attacks in Paris.",
+  "lyricsSheet": "lyrics/2015.txt",
+  "tracks": [
+    {
+      "id": "saint-cecilia",
+      "n": 1,
+      "title": "Saint Cecilia"
+    },
+    {
+      "id": "sean",
+      "n": 2,
+      "title": "Sean"
+    },
+    {
+      "id": "savior-breath",
+      "n": 3,
+      "title": "Savior Breath"
+    },
+    {
+      "id": "iron-rooster",
+      "n": 4,
+      "title": "Iron Rooster"
+    },
+    {
+      "id": "the-neverending-sigh",
+      "n": 5,
+      "title": "The Neverending Sigh"
+    }
+  ]
+}

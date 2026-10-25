@@ -1,0 +1,60 @@
+{
+  "id": "coattail-riders",
+  "title": "Taylor Hawkins & The Coattail Riders",
+  "kind": "side-project",
+  "year": 2006,
+  "lyricsSheet": "lyrics/taylorhawkinsandthecoattailriders.txt",
+  "tracks": [
+    {
+      "id": "louise",
+      "n": 1,
+      "title": "Louise"
+    },
+    {
+      "id": "walking-away",
+      "n": 2,
+      "title": "Walking Away"
+    },
+    {
+      "id": "its-ok-now",
+      "n": 5,
+      "title": "It's OK Now"
+    },
+    {
+      "id": "end-of-the-line",
+      "n": 6,
+      "title": "End Of The Line"
+    },
+    {
+      "id": "you-drive-me-insane",
+      "n": 7,
+      "title": "You Drive Me Insane"
+    },
+    {
+      "id": "wasted-energy",
+      "n": 8,
+      "title": "Wasted Energy"
+    },
+    {
+      "id": "get-up-i-want-to-get-down",
+      "n": 9,
+      "title": "Get Up I Want To Get Down"
+    },
+    {
+      "id": "pitiful",
+      "n": 10,
+      "title": "Pitiful"
+    },
+    {
+      "id": "perfect-day",
+      "n": 12,
+      "title": "Perfect Day",
+      "note": "Hidden"
+    },
+    {
+      "id": "lollipop",
+      "title": "Lollipop",
+      "note": "Unreleased"
+    }
+  ]
+}

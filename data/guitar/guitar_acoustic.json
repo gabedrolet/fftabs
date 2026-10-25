@@ -1,0 +1,19 @@
+{
+  "album": "acoustic",
+  "instrument": "guitar",
+  "tabs": {
+    "a320": "tabs_guitar/misc/A320(acoustic).txt",
+    "aurora-acoustic": "tabs_guitar/misc/Aurora(acoustic).txt",
+    "aurora-live": "tabs_guitar/misc/Aurora(live).txt",
+    "aint-it-the-life": "tabs_guitar/misc/AintItTheLife(acoustic).txt",
+    "breakout": "tabs_guitar/misc/Breakout(acoustic).txt",
+    "come-back": "tabs_guitar/misc/ComeBack(Live).txt",
+    "disenchanted-lullaby": "tabs_guitar/misc/DisenchantedLullaby(acoustic).txt",
+    "everlong": "tabs_guitar/misc/Everlong(acoustic).txt",
+    "learn-to-fly-acoustic": "tabs_guitar/misc/LearnToFly(acoustic).txt",
+    "my-hero-live-craig-kilborn-version": "tabs_guitar/misc/MyHero(acoustic_kilborn).txt",
+    "my-hero-common-acoustic-version": "tabs_guitar/misc/MyHero(acoustic).txt",
+    "times-like-these": "tabs_guitar/misc/TimesLikeThese(acoustic).txt",
+    "razor-of-mine": "tabs_guitar/misc/RazorOfMine.txt"
+  }
+}

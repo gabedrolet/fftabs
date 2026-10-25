@@ -1,0 +1,17 @@
+{
+  "album": "2011",
+  "instrument": "lyrics",
+  "lyrics": {
+    "bridge-burning": "lyrics/2011/BridgeBurning.txt",
+    "rope": "lyrics/2011/Rope.txt",
+    "dear-rosemary": "lyrics/2011/DearRosemary.txt",
+    "white-limo": "lyrics/2011/WhiteLimo.txt",
+    "arlandria": "lyrics/2011/Arlandria.txt",
+    "these-days": "lyrics/2011/TheseDays.txt",
+    "back-and-forth": "lyrics/2011/BackAndForth.txt",
+    "a-matter-of-time": "lyrics/2011/AMatterOfTime.txt",
+    "miss-the-misery": "lyrics/2011/MissTheMisery.txt",
+    "i-should-have-known": "lyrics/2011/IShouldHaveKnown.txt",
+    "walk": "lyrics/2011/Walk.txt"
+  }
+}

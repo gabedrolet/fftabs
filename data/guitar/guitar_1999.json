@@ -1,0 +1,17 @@
+{
+  "album": "1999",
+  "instrument": "guitar",
+  "tabs": {
+    "stacked-actors": "tabs_guitar/1999/StackedActors.txt",
+    "breakout": "tabs_guitar/1999/Breakout.txt",
+    "learn-to-fly": "tabs_guitar/1999/LearnToFly.txt",
+    "gimme-stitches": "tabs_guitar/1999/GimmeStitches.txt",
+    "generator": "tabs_guitar/1999/Generator.txt",
+    "aurora": "tabs_guitar/1999/Aurora.txt",
+    "live-in-skin": "tabs_guitar/1999/LiveInSkin.txt",
+    "next-year": "tabs_guitar/1999/NextYear.txt",
+    "headwires": "tabs_guitar/1999/Headwires.txt",
+    "aint-it-the-life": "tabs_guitar/1999/AintItTheLife.txt",
+    "m-i-a": "tabs_guitar/1999/MIA.txt"
+  }
+}

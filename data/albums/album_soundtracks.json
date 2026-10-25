@@ -1,0 +1,37 @@
+{
+  "id": "soundtracks",
+  "title": "Soundtracks",
+  "kind": "collection",
+  "tracks": [
+    {
+      "id": "a320",
+      "title": "A320",
+      "note": "Godzilla"
+    },
+    {
+      "id": "dear-lover",
+      "title": "Dear Lover",
+      "note": "Scream 2"
+    },
+    {
+      "id": "the-one",
+      "title": "The One",
+      "note": "Orange County"
+    },
+    {
+      "id": "touch",
+      "title": "Touch",
+      "note": "Touch"
+    },
+    {
+      "id": "how-do-you-do",
+      "title": "How Do You Do?",
+      "note": "Touch"
+    },
+    {
+      "id": "win-or-lose",
+      "title": "Win Or Lose",
+      "note": "Out Cold"
+    }
+  ]
+}

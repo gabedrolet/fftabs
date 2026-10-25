@@ -1,0 +1,16 @@
+{
+  "album": "1997",
+  "instrument": "drums",
+  "tabs": {
+    "doll": "tabs_drums/1997/Doll.txt",
+    "monkey-wrench": "tabs_drums/1997/MonkeyWrench.txt",
+    "hey-johnny-park": "tabs_drums/1997/HeyJohnnyPark.txt",
+    "my-poor-brain": "tabs_drums/1997/MyPoorBrain.txt",
+    "wind-up": "tabs_drums/1997/WindUp.txt",
+    "up-in-arms": "tabs_drums/1997/UpInArms.txt",
+    "my-hero": "tabs_drums/1997/MyHero.txt",
+    "enough-space": "tabs_drums/1997/EnoughSpace.txt",
+    "everlong": "tabs_drums/1997/Everlong.txt",
+    "new-way-home": "tabs_drums/1997/NewWayHome.txt"
+  }
+}

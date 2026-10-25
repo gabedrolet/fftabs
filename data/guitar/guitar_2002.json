@@ -1,0 +1,17 @@
+{
+  "album": "2002",
+  "instrument": "guitar",
+  "tabs": {
+    "all-my-life": "tabs_guitar/2002/AllMyLife.txt",
+    "low": "tabs_guitar/2002/Low.txt",
+    "have-it-all": "tabs_guitar/2002/HaveItAll.txt",
+    "times-like-these": "tabs_guitar/2002/TimesLikeThese.txt",
+    "disenchanted-lullaby": "tabs_guitar/2002/DisenchantedLullaby.txt",
+    "tired-of-you": "tabs_guitar/2002/TiredOfYou.txt",
+    "halo": "tabs_guitar/2002/Halo.txt",
+    "lonely-as-you": "tabs_guitar/2002/LonelyAsYou.txt",
+    "overdrive": "tabs_guitar/2002/Overdrive.txt",
+    "burn-away": "tabs_guitar/2002/BurnAway.txt",
+    "come-back": "tabs_guitar/2002/ComeBack.txt"
+  }
+}

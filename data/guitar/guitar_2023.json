@@ -1,0 +1,16 @@
+{
+  "album": "2023",
+  "instrument": "guitar",
+  "tabs": {
+    "rescued": "tabs_guitar/2023/Rescued.txt",
+    "under-you": "tabs_guitar/2023/UnderYou.txt",
+    "hearing-voices": "tabs_guitar/2023/HearingVoices.txt",
+    "but-here-we-are": "tabs_guitar/2023/ButHereWeAre.txt",
+    "the-glass": "tabs_guitar/2023/TheGlass.txt",
+    "nothing-at-all": "tabs_guitar/2023/NothingAtAll.txt",
+    "show-me-how": "tabs_guitar/2023/ShowMeHow.txt",
+    "beyond-me": "tabs_guitar/2023/BeyondMe.txt",
+    "the-teacher": "tabs_guitar/2023/TheTeacher.txt",
+    "rest": "tabs_guitar/2023/Rest.txt"
+  }
+}

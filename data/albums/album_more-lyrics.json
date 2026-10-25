@@ -1,0 +1,7 @@
+{
+  "id": "more-lyrics",
+  "title": "More lyrics",
+  "kind": "collection",
+  "lyricsSheet": "lyrics/misc.txt",
+  "tracks": []
+}

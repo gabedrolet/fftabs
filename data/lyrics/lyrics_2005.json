@@ -1,0 +1,29 @@
+{
+  "album": "2005",
+  "instrument": "lyrics",
+  "lyrics": {
+    "in-your-honor": "lyrics/2005/InYourHonor.txt",
+    "no-way-back": "lyrics/2005/NoWayBack.txt",
+    "best-of-you": "lyrics/2005/BestOfYou.txt",
+    "doa": "lyrics/2005/DOA.txt",
+    "hell": "lyrics/2005/Hell.txt",
+    "the-last-song": "lyrics/2005/TheLastSong.txt",
+    "free-me": "lyrics/2005/FreeMe.txt",
+    "resolve": "lyrics/2005/Resolve.txt",
+    "the-deepest-blues-are-black": "lyrics/2005/TheDeepestBluesAreBlack.txt",
+    "end-over-end": "lyrics/2005/EndOverEnd.txt",
+    "still": "lyrics/2005/Still.txt",
+    "what-if-i-do": "lyrics/2005/WhatIfIDo.txt",
+    "miracle": "lyrics/2005/Miracle.txt",
+    "another-round": "lyrics/2005/AnotherRound.txt",
+    "friend-of-a-friend": "lyrics/2005/FriendOfAFriend.txt",
+    "over-n-out": "lyrics/2005/OverAndOut.txt",
+    "on-the-mend": "lyrics/2005/OnTheMend.txt",
+    "virginia-moon": "lyrics/2005/VirginiaMoon.txt",
+    "cold-day-in-the-sun": "lyrics/2005/ColdDayInTheSun.txt",
+    "razor": "lyrics/2005/Razor.txt",
+    "the-sign": "lyrics/2005/TheSign.txt",
+    "ffl": "lyrics/2005/FFL.txt",
+    "spill": "lyrics/2005/Spill.txt"
+  }
+}

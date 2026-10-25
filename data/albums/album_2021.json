@@ -1,0 +1,57 @@
+{
+  "id": "2021",
+  "title": "Medicine at Midnight",
+  "kind": "studio",
+  "year": 2021,
+  "released": "2021-02-05",
+  "label": "RCA/Roswell Records",
+  "cover": "images/cover_2021.jpg",
+  "lyricsSheet": "lyrics/2021.txt",
+  "tracks": [
+    {
+      "id": "making-a-fire",
+      "n": 1,
+      "title": "Making A Fire"
+    },
+    {
+      "id": "shame-shame",
+      "n": 2,
+      "title": "Shame Shame"
+    },
+    {
+      "id": "cloudspotter",
+      "n": 3,
+      "title": "Cloudspotter"
+    },
+    {
+      "id": "waiting-on-a-war",
+      "n": 4,
+      "title": "Waiting on a War"
+    },
+    {
+      "id": "medicine-at-midnight",
+      "n": 5,
+      "title": "Medicine At Midnight"
+    },
+    {
+      "id": "no-son-of-mine",
+      "n": 6,
+      "title": "No Son of Mine"
+    },
+    {
+      "id": "holding-poison",
+      "n": 7,
+      "title": "Holding Poison"
+    },
+    {
+      "id": "chasing-birds",
+      "n": 8,
+      "title": "Chasing Birds"
+    },
+    {
+      "id": "love-dies-young",
+      "n": 9,
+      "title": "Love Dies Young"
+    }
+  ]
+}

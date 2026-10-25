@@ -1,0 +1,21 @@
+{
+  "album": "covers-studio",
+  "instrument": "guitar",
+  "tabs": {
+    "baker-street": "tabs_guitar/misc/BakerStreet.txt",
+    "band-on-the-run": "tabs_guitar/misc/BandOnTheRun.txt",
+    "danny-says": "tabs_guitar/misc/DannySays.txt",
+    "darling-nikki": "tabs_guitar/misc/DarlingNikki.txt",
+    "down-in-the-park": "tabs_guitar/misc/DownInThePark.txt",
+    "drive-me-wild": "tabs_guitar/misc/DriveMeWild.txt",
+    "gas-chamber": "tabs_guitar/misc/GasChamber.txt",
+    "have-a-cigar": "tabs_guitar/misc/HaveACigar.txt",
+    "im-in-love-with-a-german-film-star": "tabs_guitar/misc/ImInLoveWithAGermanFilmStar.txt",
+    "iron-and-stone": "tabs_guitar/misc/IronAndStone.txt",
+    "kiss-the-bottle": "tabs_guitar/misc/KissTheBottle.txt",
+    "life-of-illusion": "tabs_guitar/misc/LifeOfIllusion.txt",
+    "ozone": "tabs_guitar/misc/Ozone.txt",
+    "requiem": "tabs_guitar/misc/Requiem.txt",
+    "sister-europe": "tabs_guitar/misc/SisterEurope.txt"
+  }
+}

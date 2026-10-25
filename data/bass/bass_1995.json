@@ -1,0 +1,18 @@
+{
+  "album": "1995",
+  "instrument": "bass",
+  "tabs": {
+    "this-is-a-call": "tabs_bass/1995/ThisIsACall.txt",
+    "ill-stick-around": "tabs_bass/1995/IllStickAround.txt",
+    "big-me": "tabs_bass/1995/BigMe.txt",
+    "alone-easy-target": "tabs_bass/1995/AloneEasyTarget.txt",
+    "good-grief": "tabs_bass/1995/GoodGrief.txt",
+    "floaty": "tabs_bass/1995/Floaty.txt",
+    "weenie-beenie": "tabs_bass/1995/WeenieBeenie.txt",
+    "oh-george": "tabs_bass/1995/OhGeorge.txt",
+    "for-all-the-cows": "tabs_bass/1995/ForAllTheCows.txt",
+    "x-static": "tabs_bass/1995/XStatic.txt",
+    "wattershed": "tabs_bass/1995/Wattershed.txt",
+    "exhausted": "tabs_bass/1995/Exhausted.txt"
+  }
+}

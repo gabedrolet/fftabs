@@ -1,0 +1,69 @@
+{
+  "id": "2002",
+  "title": "One By One",
+  "kind": "studio",
+  "year": 2002,
+  "released": "2002-10-22",
+  "label": "Capitol/Roswell Records",
+  "billboard": "#3",
+  "cover": "images/cover_2002.jpg",
+  "description": "Japanese/International release of One By One. Includes the bonus track \"Danny Says\".",
+  "lyricsSheet": "lyrics/2002.txt",
+  "tracks": [
+    {
+      "id": "all-my-life",
+      "n": 1,
+      "title": "All My Life"
+    },
+    {
+      "id": "low",
+      "n": 2,
+      "title": "Low"
+    },
+    {
+      "id": "have-it-all",
+      "n": 3,
+      "title": "Have It All"
+    },
+    {
+      "id": "times-like-these",
+      "n": 4,
+      "title": "Times Like These"
+    },
+    {
+      "id": "disenchanted-lullaby",
+      "n": 5,
+      "title": "Disenchanted Lullaby"
+    },
+    {
+      "id": "tired-of-you",
+      "n": 6,
+      "title": "Tired Of You"
+    },
+    {
+      "id": "halo",
+      "n": 7,
+      "title": "Halo"
+    },
+    {
+      "id": "lonely-as-you",
+      "n": 8,
+      "title": "Lonely As You"
+    },
+    {
+      "id": "overdrive",
+      "n": 9,
+      "title": "Overdrive"
+    },
+    {
+      "id": "burn-away",
+      "n": 10,
+      "title": "Burn Away"
+    },
+    {
+      "id": "come-back",
+      "n": 11,
+      "title": "Come Back"
+    }
+  ]
+}

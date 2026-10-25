@@ -1,0 +1,135 @@
+{
+  "id": "bsides",
+  "title": "B-Sides",
+  "kind": "collection",
+  "tracks": [
+    {
+      "id": "butterflies",
+      "title": "Butterflies"
+    },
+    {
+      "id": "damn-you-damn-everyone",
+      "title": "Damn You Damn Everyone"
+    },
+    {
+      "id": "ffl",
+      "title": "FFL",
+      "note": "Best Of You Single"
+    },
+    {
+      "id": "fraternity",
+      "title": "Fraternity",
+      "note": "There Is Nothing Left To Lose - Aussie Edition"
+    },
+    {
+      "id": "gods-look-down",
+      "title": "Gods Look Down",
+      "note": "Previous Band Scream"
+    },
+    {
+      "id": "goodbye-lament",
+      "title": "Goodbye Lament",
+      "note": "w/ Tony Iommi / Black Sabbath"
+    },
+    {
+      "id": "gun-beside-my-bed",
+      "title": "Gun Beside My Bed",
+      "note": "Early Version of Overdrive"
+    },
+    {
+      "id": "how-i-miss-you",
+      "title": "How I Miss You",
+      "note": "I'll Stick Around Single"
+    },
+    {
+      "id": "im-alone-again",
+      "title": "I'm Alone Again"
+    },
+    {
+      "id": "its-all-about-the-benjamins",
+      "title": "It's All About The Benjamins"
+    },
+    {
+      "id": "make-a-bet",
+      "title": "Make A Bet",
+      "note": "First Version of Win Or Lose"
+    },
+    {
+      "id": "mountain-of-you",
+      "title": "Mountain Of You"
+    },
+    {
+      "id": "normal",
+      "title": "Normal",
+      "note": "Times Like These Single"
+    },
+    {
+      "id": "podunk",
+      "title": "Podunk",
+      "note": "This Is A Call Single"
+    },
+    {
+      "id": "skin-and-bones",
+      "title": "Skin And Bones",
+      "note": "DOA Single"
+    },
+    {
+      "id": "spill",
+      "title": "Spill",
+      "note": "Best Of You Single"
+    },
+    {
+      "id": "the-colour-and-the-shape",
+      "title": "The Colour And The Shape"
+    },
+    {
+      "id": "tighter-and-tighter",
+      "title": "Tighter And Tighter",
+      "note": "Studio Video"
+    },
+    {
+      "id": "walking-a-line-ver-1",
+      "title": "Walking A Line ver.1",
+      "note": "One By One DVD"
+    },
+    {
+      "id": "walking-a-line-ver-2",
+      "title": "Walking A Line ver.2",
+      "note": "One By One DVD"
+    },
+    {
+      "id": "wheels",
+      "title": "Wheels"
+    },
+    {
+      "id": "world-ver-1",
+      "title": "World ver.1",
+      "note": "Resolve Single"
+    },
+    {
+      "id": "world-ver-2",
+      "title": "World ver.2",
+      "note": "Resolve Single"
+    },
+    {
+      "id": "iron-and-stone",
+      "title": "Iron And Stone",
+      "note": "Learn To Fly Single"
+    },
+    {
+      "id": "walking-a-line",
+      "title": "Walking A Line",
+      "note": "One By One DVD"
+    },
+    {
+      "id": "world",
+      "title": "World",
+      "note": "Resolve Single"
+    },
+    {
+      "id": "rain",
+      "title": "Rain",
+      "note": "Previous Band Scream"
+    }
+  ]
+}

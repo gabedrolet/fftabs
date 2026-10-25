@@ -1,0 +1,11 @@
+{
+  "album": "bsides",
+  "instrument": "bass",
+  "tabs": {
+    "make-a-bet": "tabs_bass/misc/MakeABet.txt",
+    "normal": "tabs_bass/misc/Normal.txt",
+    "iron-and-stone": "tabs_bass/misc/IronAndStone.txt",
+    "walking-a-line": "tabs_bass/misc/WalkingALine.txt",
+    "world": "tabs_bass/misc/World.txt"
+  }
+}

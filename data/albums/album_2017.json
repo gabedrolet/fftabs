@@ -1,0 +1,68 @@
+{
+  "id": "2017",
+  "title": "Concrete and Gold",
+  "kind": "studio",
+  "year": 2017,
+  "released": "2017-09-15",
+  "label": "RCA/Roswell Records",
+  "cover": "images/cover_2017.jpg",
+  "description": "Produced by Greg Kurstin",
+  "lyricsSheet": "lyrics/2017.txt",
+  "tracks": [
+    {
+      "id": "t-shirt",
+      "n": 1,
+      "title": "T-Shirt"
+    },
+    {
+      "id": "run",
+      "n": 2,
+      "title": "Run"
+    },
+    {
+      "id": "make-it-right",
+      "n": 3,
+      "title": "Make It Right"
+    },
+    {
+      "id": "the-sky-is-a-neighborhood",
+      "n": 4,
+      "title": "The Sky Is A Neighborhood"
+    },
+    {
+      "id": "la-dee-da",
+      "n": 5,
+      "title": "La Dee Da"
+    },
+    {
+      "id": "dirty-water",
+      "n": 6,
+      "title": "Dirty Water"
+    },
+    {
+      "id": "arrows",
+      "n": 7,
+      "title": "Arrows"
+    },
+    {
+      "id": "happy-ever-after-zero-hour",
+      "n": 8,
+      "title": "Happy Ever After (Zero Hour)"
+    },
+    {
+      "id": "sunday-rain",
+      "n": 9,
+      "title": "Sunday Rain"
+    },
+    {
+      "id": "the-line",
+      "n": 10,
+      "title": "The Line"
+    },
+    {
+      "id": "concrete-and-gold",
+      "n": 11,
+      "title": "Concrete and Gold"
+    }
+  ]
+}

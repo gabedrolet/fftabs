@@ -1,0 +1,17 @@
+{
+  "album": "1999",
+  "instrument": "lyrics",
+  "lyrics": {
+    "stacked-actors": "lyrics/1999/StackedActors.txt",
+    "breakout": "lyrics/1999/Breakout.txt",
+    "learn-to-fly": "lyrics/1999/LearnToFly.txt",
+    "gimme-stitches": "lyrics/1999/GimmeStitches.txt",
+    "generator": "lyrics/1999/Generator.txt",
+    "aurora": "lyrics/1999/Aurora.txt",
+    "live-in-skin": "lyrics/1999/LiveInSkin.txt",
+    "next-year": "lyrics/1999/NextYear.txt",
+    "headwires": "lyrics/1999/Headwires.txt",
+    "aint-it-the-life": "lyrics/1999/AintItTheLife.txt",
+    "m-i-a": "lyrics/1999/MIA.txt"
+  }
+}

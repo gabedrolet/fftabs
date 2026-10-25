@@ -1,0 +1,62 @@
+{
+  "id": "2023",
+  "title": "But Here We Are",
+  "kind": "studio",
+  "year": 2023,
+  "released": "2023-06-02",
+  "label": "RCA/Roswell Records",
+  "cover": "images/cover_2023.jpg",
+  "lyricsSheet": "lyrics/2023.txt",
+  "tracks": [
+    {
+      "id": "rescued",
+      "n": 1,
+      "title": "Rescued"
+    },
+    {
+      "id": "under-you",
+      "n": 2,
+      "title": "Under You"
+    },
+    {
+      "id": "hearing-voices",
+      "n": 3,
+      "title": "Hearing Voices"
+    },
+    {
+      "id": "but-here-we-are",
+      "n": 4,
+      "title": "But Here We Are"
+    },
+    {
+      "id": "the-glass",
+      "n": 5,
+      "title": "The Glass"
+    },
+    {
+      "id": "nothing-at-all",
+      "n": 6,
+      "title": "Nothing At All"
+    },
+    {
+      "id": "show-me-how",
+      "n": 7,
+      "title": "Show Me How"
+    },
+    {
+      "id": "beyond-me",
+      "n": 8,
+      "title": "Beyond Me"
+    },
+    {
+      "id": "the-teacher",
+      "n": 9,
+      "title": "The Teacher"
+    },
+    {
+      "id": "rest",
+      "n": 10,
+      "title": "Rest"
+    }
+  ]
+}

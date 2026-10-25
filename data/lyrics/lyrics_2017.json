@@ -1,0 +1,17 @@
+{
+  "album": "2017",
+  "instrument": "lyrics",
+  "lyrics": {
+    "t-shirt": "lyrics/2017/T-Shirt.txt",
+    "run": "lyrics/2017/Run.txt",
+    "make-it-right": "lyrics/2017/MakeItRight.txt",
+    "the-sky-is-a-neighborhood": "lyrics/2017/TheSkyIsANeighborhood.txt",
+    "la-dee-da": "lyrics/2017/LaDeeDa.txt",
+    "dirty-water": "lyrics/2017/DirtyWater.txt",
+    "arrows": "lyrics/2017/Arrows.txt",
+    "happy-ever-after-zero-hour": "lyrics/2017/HappyEverAfter.txt",
+    "sunday-rain": "lyrics/2017/SundayRain.txt",
+    "the-line": "lyrics/2017/TheLine.txt",
+    "concrete-and-gold": "lyrics/2017/ConcreteAndGold.txt"
+  }
+}

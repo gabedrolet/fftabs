@@ -1,0 +1,79 @@
+{
+  "id": "1997",
+  "title": "The Colour & The Shape",
+  "kind": "studio",
+  "year": 1997,
+  "released": "1997-05-20",
+  "label": "Capitol/Roswell Records",
+  "billboard": "#10",
+  "cover": "images/cover_1997.jpg",
+  "description": "Dave Grohl on vocals, guitars, drums; Pat Smear plays guitars; Nate Mendel plays bass and William Goldsmith plays drums on Doll and Up In Arms Slow. Produced by Gil Norton.",
+  "lyricsSheet": "lyrics/1997.txt",
+  "tracks": [
+    {
+      "id": "doll",
+      "n": 1,
+      "title": "Doll"
+    },
+    {
+      "id": "monkey-wrench",
+      "n": 2,
+      "title": "Monkey Wrench"
+    },
+    {
+      "id": "hey-johnny-park",
+      "n": 3,
+      "title": "Hey, Johnny Park!"
+    },
+    {
+      "id": "my-poor-brain",
+      "n": 4,
+      "title": "My Poor Brain"
+    },
+    {
+      "id": "wind-up",
+      "n": 5,
+      "title": "Wind Up"
+    },
+    {
+      "id": "up-in-arms",
+      "n": 6,
+      "title": "Up In Arms"
+    },
+    {
+      "id": "my-hero",
+      "n": 7,
+      "title": "My Hero"
+    },
+    {
+      "id": "see-you",
+      "n": 8,
+      "title": "See You"
+    },
+    {
+      "id": "enough-space",
+      "n": 9,
+      "title": "Enough Space"
+    },
+    {
+      "id": "february-stars",
+      "n": 10,
+      "title": "February Stars"
+    },
+    {
+      "id": "everlong",
+      "n": 11,
+      "title": "Everlong"
+    },
+    {
+      "id": "walking-after-you",
+      "n": 12,
+      "title": "Walking After You"
+    },
+    {
+      "id": "new-way-home",
+      "n": 13,
+      "title": "New Way Home"
+    }
+  ]
+}

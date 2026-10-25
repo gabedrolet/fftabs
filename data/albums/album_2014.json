@@ -1,0 +1,53 @@
+{
+  "id": "2014",
+  "title": "Sonic Highways",
+  "kind": "studio",
+  "year": 2014,
+  "released": "2014-11-10",
+  "label": "RCA/Roswell Records",
+  "cover": "images/cover_2014.jpg",
+  "description": "The album was produced by Butch Vig and the eight songs were each recorded in a different U.S city: Austin, Chicago, Los Angeles, Nashville, New Orleans, New York, Seattle, and Washington, D.C.\n \n\n The alternate vinyl cover arts depict each of these eight different cities.",
+  "lyricsSheet": "lyrics/2014.txt",
+  "tracks": [
+    {
+      "id": "something-from-nothing",
+      "n": 1,
+      "title": "Something From Nothing"
+    },
+    {
+      "id": "the-feast-and-the-famine",
+      "n": 2,
+      "title": "The Feast and The Famine"
+    },
+    {
+      "id": "congregation",
+      "n": 3,
+      "title": "Congregation"
+    },
+    {
+      "id": "what-did-i-do-god-as-my-witness",
+      "n": 4,
+      "title": "What Did I Do?/God As My Witness"
+    },
+    {
+      "id": "outside",
+      "n": 5,
+      "title": "Outside"
+    },
+    {
+      "id": "in-the-clear",
+      "n": 6,
+      "title": "In The Clear"
+    },
+    {
+      "id": "subterranean",
+      "n": 6,
+      "title": "Subterranean"
+    },
+    {
+      "id": "i-am-a-river",
+      "n": 8,
+      "title": "I Am a River"
+    }
+  ]
+}

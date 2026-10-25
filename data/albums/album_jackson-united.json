@@ -1,0 +1,60 @@
+{
+  "id": "jackson-united",
+  "title": "Jackson United",
+  "kind": "side-project",
+  "lyricsSheet": "lyrics/jacksonunited.txt",
+  "tracks": [
+    {
+      "id": "a-better-life",
+      "title": "A Better Life"
+    },
+    {
+      "id": "all-the-way",
+      "title": "All The Way"
+    },
+    {
+      "id": "blinders",
+      "title": "Blinders"
+    },
+    {
+      "id": "damn-you",
+      "title": "Damn You"
+    },
+    {
+      "id": "down-to-you",
+      "title": "Down To You"
+    },
+    {
+      "id": "far-from-here",
+      "title": "Far From Here"
+    },
+    {
+      "id": "fell-into",
+      "title": "Fell Into"
+    },
+    {
+      "id": "helsinki",
+      "title": "Helsinki"
+    },
+    {
+      "id": "here-comes-hollow",
+      "title": "Here Comes Hollow"
+    },
+    {
+      "id": "lions-roar",
+      "title": "Lion's Roar"
+    },
+    {
+      "id": "shes-giving-in",
+      "title": "She's Giving In"
+    },
+    {
+      "id": "unchanged",
+      "title": "Unchanged"
+    },
+    {
+      "id": "pure",
+      "title": "Pure"
+    }
+  ]
+}

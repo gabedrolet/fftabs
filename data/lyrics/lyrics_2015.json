@@ -1,0 +1,11 @@
+{
+  "album": "2015",
+  "instrument": "lyrics",
+  "lyrics": {
+    "saint-cecilia": "lyrics/2015/SaintCecilia.txt",
+    "sean": "lyrics/2015/Sean.txt",
+    "savior-breath": "lyrics/2015/SaviorBreath.txt",
+    "iron-rooster": "lyrics/2015/IronRooster.txt",
+    "the-neverending-sigh": "lyrics/2015/TheNeverendingSigh.txt"
+  }
+}

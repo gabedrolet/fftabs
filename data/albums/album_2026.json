@@ -1,0 +1,60 @@
+{
+  "id": "2026",
+  "title": "Your Favorite Toy",
+  "kind": "studio",
+  "year": 2026,
+  "lyricsSheet": "lyrics/2026.txt",
+  "cover": "images/cover_2026.jpg",
+  "tracks": [
+    {
+      "id": "caught-in-the-echo",
+      "n": 1,
+      "title": "Caught In The Echo"
+    },
+    {
+      "id": "of-all-people",
+      "n": 2,
+      "title": "Of All People"
+    },
+    {
+      "id": "window",
+      "n": 3,
+      "title": "Window"
+    },
+    {
+      "id": "your-favorite-toy",
+      "n": 4,
+      "title": "Your Favorite Toy"
+    },
+    {
+      "id": "if-you-only-knew",
+      "n": 5,
+      "title": "If You Only Knew"
+    },
+    {
+      "id": "spit-shine",
+      "n": 6,
+      "title": "Spit Shine"
+    },
+    {
+      "id": "unconditional",
+      "n": 7,
+      "title": "Unconditional"
+    },
+    {
+      "id": "child-actor",
+      "n": 8,
+      "title": "Child Actor"
+    },
+    {
+      "id": "amen-caveman",
+      "n": 9,
+      "title": "Amen, Caveman"
+    },
+    {
+      "id": "asking-for-a-friend",
+      "n": 10,
+      "title": "Asking For A Friend"
+    }
+  ]
+}

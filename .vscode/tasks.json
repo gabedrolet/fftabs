@@ -1,0 +1,54 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "vite: dev",
+      "type": "npm",
+      "script": "dev",
+      "isBackground": true,
+      "problemMatcher": {
+        "owner": "vite",
+        "pattern": { "regexp": "^x{100}$" },
+        "background": { "activesBegin": "VITE", "beginsPattern": "VITE", "endsPattern": "http://localhost:" }
+      }
+    },
+    {
+      "label": "npm: build",
+      "type": "npm",
+      "script": "build",
+      "group": { "kind": "build", "isDefault": true },
+      "problemMatcher": ["$tsc"]
+    },
+    {
+      "label": "vite: preview",
+      "type": "npm",
+      "script": "preview",
+      "dependsOn": "npm: build",
+      "isBackground": true,
+      "problemMatcher": {
+        "owner": "vite",
+        "pattern": { "regexp": "^x{100}$" },
+        "background": { "activesBegin": "http://localhost:", "beginsPattern": "http://localhost:", "endsPattern": "http://localhost:" }
+      }
+    },
+    {
+      "label": "npm: data (validate + rebuild index)",
+      "type": "npm",
+      "script": "data",
+      "problemMatcher": []
+    },
+    {
+      "label": "stop servers",
+      "command": "${input:terminateAll}",
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+    {
+      "id": "terminateAll",
+      "type": "command",
+      "command": "workbench.action.tasks.terminate",
+      "args": "terminateAll"
+    }
+  ]
+}

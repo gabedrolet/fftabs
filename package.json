@@ -1,0 +1,22 @@
+{
+  "name": "fftabs",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Foo Fighters tabs archive (fftabs.com), static site for GitHub Pages",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "typecheck": "tsc --noEmit",
+    "build": "tsc --noEmit && vite build && node tools/copy-content.mjs",
+    "preview": "vite preview",
+    "data": "python tools/build_index.py"
+  },
+  "dependencies": {
+    "preact": "10.29.8"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "2.10.6",
+    "typescript": "5.9.3",
+    "vite": "6.4.4"
+  }
+}
