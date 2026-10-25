@@ -3,7 +3,7 @@ import { cpSync, existsSync } from 'node:fs';
 
 const items = [
   'data', 'tabs_guitar', 'tabs_bass', 'tabs_drums', 'lyrics', 'images',
-  'favicon.ico', 'redirects.json', '404.html', '.nojekyll', 'CNAME',
+  'favicon.ico', 'redirects.json', 'sitemap.xml', 'robots.txt', '404.html', '.nojekyll', 'CNAME',
 ];
 let n = 0;
 for (const item of items) {

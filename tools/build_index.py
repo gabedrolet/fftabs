@@ -8,6 +8,9 @@ import datetime, glob, json, os, sys
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D = os.path.join(REPO, "data")
+# Public address of the site, used in sitemap.xml and robots.txt.
+# Change this one line if fftabs.com becomes a GitHub Pages custom domain ("https://fftabs.com/").
+SITE_URL = "https://fftabs.com/"
 PARTS = ["guitar", "bass", "drums", "lyrics"]
 KIND_ORDER = {"studio": 0, "live": 0, "compilation": 0, "collection": 1, "side-project": 2}
 # old fftabs.com "more" section ids -> new album ids
@@ -106,8 +109,21 @@ def dump(path, obj):
 dump(os.path.join(D, "index.json"), index)
 dump(os.path.join(REPO, "redirects.json"), dict(sorted(red.items())))
 
+# sitemap.xml: basic for now, just the home page. Album and song pages use #/ addresses,
+# which search engines treat as the home page; they'll be listed here once the site
+# has real page addresses (/album/1997/, /song/…/).
+from xml.sax.saxutils import escape
+urls = [SITE_URL]
+with open(os.path.join(REPO, "sitemap.xml"), "w", encoding="utf-8", newline="\n") as f:
+    f.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
+    for u in urls:
+        f.write(f"  <url><loc>{escape(u)}</loc></url>\n")
+    f.write("</urlset>\n")
+with open(os.path.join(REPO, "robots.txt"), "w", encoding="utf-8", newline="\n") as f:
+    f.write(f"User-agent: *\nAllow: /\n\nSitemap: {SITE_URL}sitemap.xml\n")
+
 for w in warnings: print("WARN ", w)
 for e in errors: print("ERROR", e)
-print(f"{len(albums)} albums, {len(index['search'])} searchable tracks, {len(red)} redirects, "
+print(f"{len(albums)} albums, {len(index['search'])} searchable tracks, {len(red)} redirects, {len(urls)} sitemap URLs, "
       f"{len(warnings)} warnings, {len(errors)} errors")
 sys.exit(1 if errors else 0)
